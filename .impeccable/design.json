@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-23T07:06:27.255694+00:00",
+  "title": "Design System: Realme Link Desktop",
+  "extensions": {
+    "colorMeta": {
+      "signal": {
+        "role": "primary",
+        "displayName": "Signal Yellow",
+        "canonical": "oklch(0.88 0.175 94)",
+        "tonalRamp": [
+          "oklch(0.25 0.12 94)",
+          "oklch(0.35 0.12 94)",
+          "oklch(0.48 0.12 94)",
+          "oklch(0.62 0.12 94)",
+          "oklch(0.75 0.12 94)",
+          "oklch(0.88 0.12 94)",
+          "oklch(0.93 0.12 94)",
+          "oklch(0.97 0.12 94)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Ink",
+        "canonical": "oklch(0.165 0.006 270)",
+        "tonalRamp": [
+          "oklch(0.12 0.006 270)",
+          "oklch(0.165 0.006 270)",
+          "oklch(0.205 0.006 270)",
+          "oklch(0.235 0.006 270)",
+          "oklch(0.275 0.006 270)",
+          "oklch(0.4 0.006 270)",
+          "oklch(0.7 0.006 270)",
+          "oklch(0.935 0.006 270)"
+        ]
+      },
+      "bone": {
+        "role": "neutral",
+        "displayName": "Bone",
+        "canonical": "oklch(0.955 0.011 85)",
+        "tonalRamp": [
+          "oklch(0.2 0.011 85)",
+          "oklch(0.4 0.011 85)",
+          "oklch(0.5 0.011 85)",
+          "oklch(0.7 0.011 85)",
+          "oklch(0.85 0.011 85)",
+          "oklch(0.925 0.011 85)",
+          "oklch(0.955 0.011 85)",
+          "oklch(0.975 0.011 85)"
+        ]
+      },
+      "transparency": {
+        "role": "secondary",
+        "displayName": "Transparency Teal",
+        "canonical": "oklch(0.8 0.1 200)",
+        "tonalRamp": [
+          "oklch(0.25 0.08 200)",
+          "oklch(0.35 0.08 200)",
+          "oklch(0.48 0.08 200)",
+          "oklch(0.6 0.08 200)",
+          "oklch(0.7 0.08 200)",
+          "oklch(0.8 0.08 200)",
+          "oklch(0.9 0.08 200)",
+          "oklch(0.95 0.08 200)"
+        ]
+      },
+      "low": {
+        "role": "secondary",
+        "displayName": "Low Red",
+        "canonical": "oklch(0.72 0.19 28)",
+        "tonalRamp": [
+          "oklch(0.25 0.15 28)",
+          "oklch(0.35 0.15 28)",
+          "oklch(0.48 0.15 28)",
+          "oklch(0.6 0.15 28)",
+          "oklch(0.72 0.15 28)",
+          "oklch(0.8 0.15 28)",
+          "oklch(0.9 0.15 28)",
+          "oklch(0.95 0.15 28)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Device name on the stage."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Console section titles."
+      },
+      "numeral": {
+        "displayName": "Numeral",
+        "purpose": "Battery levels, tabular."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Descriptions and hints."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Gesture names and captions."
+      }
+    },
+    "shadows": [
+      {
+        "name": "pill-lift",
+        "value": "0 8px 18px -8px color-mix(in oklch, var(--foreground) 45%, transparent)",
+        "purpose": "Lifts the selected segment off its glass track."
+      }
+    ],
+    "motion": [
+      {
+        "name": "ease-out-expo",
+        "value": "cubic-bezier(0.22, 1, 0.36, 1)",
+        "purpose": "State changes: bar fills, curve morph, expanding sub-controls."
+      },
+      {
+        "name": "pill-spring",
+        "value": "spring stiffness 300, damping 32",
+        "purpose": "The sliding selected pill."
+      },
+      {
+        "name": "assemble",
+        "value": "GSAP timeline ~1.8s (expo.out / back.out)",
+        "purpose": "The one 3D intro on connect; skipped under reduced motion."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "lg",
+        "value": "1024px"
+      },
+      {
+        "name": "sm",
+        "value": "640px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Segmented control",
+      "kind": "custom",
+      "refersTo": "segmented-track",
+      "description": "Frosted track with one sliding selected pill.",
+      "html": "<div class=\"ds-seg\"><span class=\"ds-seg-o\">Off</span><span class=\"ds-seg-o\">Transparency</span><span class=\"ds-seg-o on\">Noise cancelling</span></div>",
+      "css": ".ds-seg{display:flex;gap:4px;padding:4px;border-radius:1.8rem;border:1px solid var(--border);background:color-mix(in oklch,var(--card) 62%,transparent);backdrop-filter:blur(18px);box-shadow:inset 0 1px 0 color-mix(in oklch,var(--foreground) 7%,transparent)}.ds-seg-o{flex:1;text-align:center;padding:12px 8px;border-radius:1.4rem;font-size:14px;font-weight:500;color:var(--muted-foreground)}.ds-seg-o.on{background:var(--primary);color:var(--primary-foreground);box-shadow:0 8px 18px -8px color-mix(in oklch,var(--foreground) 45%,transparent)}"
+    },
+    {
+      "name": "Primary button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "The one filled action, fully round.",
+      "html": "<button class=\"ds-btn\">Connect</button>",
+      "css": ".ds-btn{background:var(--primary);color:var(--primary-foreground);border:0;border-radius:999px;padding:6px 14px;font:600 14px var(--font-sans);transition:filter .3s}.ds-btn:hover{filter:brightness(1.06)}.ds-btn:focus-visible{outline:2px solid var(--ring);outline-offset:2px}"
+    },
+    {
+      "name": "Switch row",
+      "kind": "custom",
+      "refersTo": "switch-on",
+      "description": "Label and hint with a Signal-yellow switch.",
+      "html": "<label class=\"ds-row\"><span><b>Dual-device connection</b><small>Stay connected to two devices</small></span><i class=\"ds-sw\"></i></label>",
+      "css": ".ds-row{display:flex;justify-content:space-between;align-items:center;gap:24px;padding:14px 0;border-top:1px solid var(--border)}.ds-row b{display:block;font-weight:500}.ds-row small{color:var(--muted-foreground);font-size:14px}.ds-sw{width:32px;height:18px;border-radius:999px;background:var(--primary);position:relative}.ds-sw::after{content:'';position:absolute;top:1px;right:2px;width:16px;height:16px;border-radius:50%;background:var(--primary-foreground)}"
+    },
+    {
+      "name": "Battery level",
+      "kind": "custom",
+      "refersTo": "stage",
+      "description": "Spring numeral, bar and location.",
+      "html": "<div class=\"ds-batt\"><div><span class=\"n\">82</span><span class=\"u\">%</span></div><div class=\"bar\"><i></i></div><p>Left bud</p><small>In ear</small></div>",
+      "css": ".ds-batt{padding:20px 24px}.ds-batt .n{font:500 36px var(--font-display);letter-spacing:-.025em;font-variant-numeric:tabular-nums}.ds-batt .u{color:var(--muted-foreground);font-size:14px;margin-left:4px}.ds-batt .bar{height:4px;border-radius:99px;background:var(--muted);margin-top:8px;overflow:hidden}.ds-batt .bar i{display:block;height:100%;width:82%;background:var(--foreground);border-radius:99px}.ds-batt p{margin:8px 0 0;font-size:14px}.ds-batt small{color:var(--muted-foreground);font-size:12px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Instrument Panel",
+    "overview": "A control surface for something you wear: precise, quiet, legible at a glance. The 3D earbuds sit on a stage of faint concentric rings; everything adjustable lives beside it on a console divided by hairlines. One thing is active at a time and it is the only thing that is yellow.",
+    "keyCharacteristics": [
+      "One accent, used only for the active state; colour elsewhere carries meaning.",
+      "Ink (dark) default, Bone (light) follows the system; tinted neutrals only.",
+      "Display-weight tabular numerals that read like a meter.",
+      "Structure from hairlines and spacing, not nested cards."
+    ],
+    "rules": [
+      {
+        "name": "The One Signal Rule",
+        "body": "Yellow marks the single active choice in a group.",
+        "section": "colors"
+      },
+      {
+        "name": "The Meaning-Not-Decoration Rule",
+        "body": "Teal and red appear only when they state something.",
+        "section": "colors"
+      },
+      {
+        "name": "The Sentence-Case Rule",
+        "body": "No tracked all-caps labels; hierarchy comes from size and weight.",
+        "section": "typography"
+      },
+      {
+        "name": "The Glass-Has-A-Job Rule",
+        "body": "Blur only where something sits over the stage rings or a track must read as recessed.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do let exactly one option per group carry Signal Yellow.",
+      "Do keep controls reachable by keyboard with the themed focus ring.",
+      "Do animate only in response to an action, plus the one 3D assembly on connect; respect prefers-reduced-motion.",
+      "Do write controls as the action or state they set, in sentence case.",
+      "Do use tabular numerals for every number."
+    ],
+    "donts": [
+      "Don't wrap content in identical rounded cards.",
+      "Don't use tracked uppercase labels or eyebrows above headings.",
+      "Don't use blur as ambient decoration or a yellow glow.",
+      "Don't use pure black or white.",
+      "Don't show a setting the model or capability bitmap doesn't expose."
+    ]
+  }
+}

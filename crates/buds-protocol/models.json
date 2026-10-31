@@ -1,0 +1,8280 @@
+{
+ "realme TechLife Wireless Z3": {
+  "androidConfig": {
+   "delaySppConnect": "0",
+   "modelId": "051C52",
+   "sdkVendor": "VENDOR_TL",
+   "sppUUIDType": "TYPE_DEFAULT",
+   "supportMyDevice": "1",
+   "needGetEqAfterSet": "0",
+   "sppCmdInterval": 10
+  },
+  "canUploadLog": 1,
+  "headsetDetectConfig": {
+   "items": [
+    {
+     "type": "horn"
+    },
+    {
+     "type": "microphone"
+    },
+    {
+     "type": "antenna"
+    }
+   ]
+  },
+  "headsetOtaConfig": {
+   "forceUpdateAfterOtaFail": 0,
+   "otaState": 1,
+   "supportBreakpointResume": 1
+  },
+  "productAttr": {
+   "deviceType": "TYPE_NECK",
+   "noiseControlProtocol": "PROTOCOL_STANDARD",
+   "pullSwitchProtocol": "PROTOCOL_STANDARD",
+   "registerAllNotifyAtOnce": "PROTOCOL_STANDARD",
+   "operationGuide": 1
+  },
+  "viewItems": [
+   {
+    "itemType": "GROUP_DEVICE_NECK_LARGE_ICON"
+   },
+   {
+    "itemType": "GROUP_SOUND_EFFECT",
+    "subItems": [
+     {
+      "itemType": "ITEM_SOUND_EFFECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_3D_SOUND_EFFECT"
+     },
+     {
+      "itemType": "ITEM_DYNAMIC_SOUND_EFFECT"
+     },
+     {
+      "itemType": "ITEM_SOUND_ENHANCE",
+      "supportRegions": [
+       "3"
+      ]
+     },
+     {
+      "itemType": "ITEM_DOLBY_ATMOS"
+     },
+     {
+      "itemType": "ITEM_OREALITY_AUDIO"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_MODE",
+    "subItems": [
+     {
+      "itemType": "ITEM_GAME_MODE"
+     },
+     {
+      "itemType": "ITEM_WHITE_NOISE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_PERSONALIZATION",
+    "subItems": [
+     {
+      "itemType": "ITEM_KEY_SETTING"
+     },
+     {
+      "itemType": "ITEM_DOUBLE_DEVICE_CONNECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_AUTO_ANSWER"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_SAFE",
+    "subItems": [
+     {
+      "itemType": "ITEM_SEARCH_HEADSET"
+     },
+     {
+      "itemType": "ITEM_FIND_PHONE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_USE_TIME"
+   },
+   {
+    "itemType": "GROUP_FK_KEY",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_SINGLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_SINGLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "realme TechLife Wireless Z3ANC": {
+  "androidConfig": {
+   "delaySppConnect": "0",
+   "modelId": "052052",
+   "sdkVendor": "VENDOR_TL",
+   "sppUUIDType": "TYPE_DEFAULT",
+   "supportMyDevice": "1"
+  },
+  "canUploadLog": -1,
+  "headsetDetectConfig": {
+   "items": [
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "horn"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "microphone"
+    },
+    {
+     "minUnSupportVersion": "9.9.9.9",
+     "minSupportVersion": "0.0.0.0",
+     "type": "antenna"
+    }
+   ],
+   "minSupportVersion": "0.0.0.0",
+   "minUnSupportVersion": "9.9.9.9"
+  },
+  "headsetOtaConfig": {
+   "forceUpdateAfterOtaFail": 0,
+   "otaState": 1,
+   "supportBreakpointResume": 1
+  },
+  "productAttr": {
+   "deviceType": "TYPE_NECK",
+   "noiseControlProtocol": "PROTOCOL_STANDARD",
+   "pullSwitchProtocol": "PROTOCOL_STANDARD",
+   "registerAllNotifyAtOnce": "PROTOCOL_STANDARD",
+   "operationGuide": 1
+  },
+  "viewItems": [
+   {
+    "itemType": "GROUP_DEVICE_NECK_LARGE_ICON"
+   },
+   {
+    "itemType": "GROUP_NOISE_CONTROL",
+    "subItems": [
+     {
+      "itemType": "GROUP_NOISE_CONTROL_MODE",
+      "subItems": [
+       {
+        "itemType": "ITEM_NOISE_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_NOISE_CLOSE"
+       },
+       {
+        "itemType": "ITEM_NOISE_TRANSPARENT"
+       }
+      ]
+     },
+     {
+      "itemType": "GROUP_NOISE_CONTROL_MODE_LIST",
+      "subItems": [
+       {
+        "itemType": "ITEM_SMART_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_DEEP_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_MEDIUM_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_LIGHT_REDUCTION"
+       }
+      ]
+     },
+     {
+      "itemType": "ITEM_NOISE_CONTROL_STRENGTHEN_VOICE"
+     },
+     {
+      "itemType": "ITEM_NOISE_CONTROL_WIND_NOISE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_SOUND_EFFECT",
+    "subItems": [
+     {
+      "itemType": "ITEM_SOUND_EFFECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_3D_SOUND_EFFECT"
+     },
+     {
+      "itemType": "ITEM_DYNAMIC_SOUND_EFFECT"
+     },
+     {
+      "itemType": "ITEM_SOUND_ENHANCE",
+      "supportRegions": [
+       "3"
+      ]
+     },
+     {
+      "itemType": "ITEM_DOLBY_ATMOS"
+     },
+     {
+      "itemType": "ITEM_OREALITY_AUDIO"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_OTHER",
+    "subItems": [
+     {
+      "itemType": "ITEM_GAME_MODE"
+     },
+     {
+      "itemType": "ITEM_COMPACTNESS_DETECT"
+     },
+     {
+      "itemType": "ITEM_DOUBLE_DEVICE_CONNECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_FIND_PHONE"
+     },
+     {
+      "itemType": "ITEM_KEY_SETTING"
+     },
+     {
+      "itemType": "ITEM_AUTO_ANSWER"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_FK_KEY",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_SINGLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_SINGLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_NOISE",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_SINGLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_SINGLE_CLICK",
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION"
+       ],
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ]
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "realme TechLife Buds": {
+  "androidConfig": {
+   "delaySppConnect": "0",
+   "modelId": "066012",
+   "sdkVendor": "VENDOR_TL",
+   "sppUUIDType": "TYPE_DEFAULT",
+   "needGetEqAfterSet": "0",
+   "sppCmdInterval": 10,
+   "supportMyDevice": "1"
+  },
+  "canUploadLog": 1,
+  "headsetDetectConfig": {
+   "items": [
+    {
+     "type": "tws_pair"
+    },
+    {
+     "type": "touch"
+    },
+    {
+     "type": "horn"
+    },
+    {
+     "type": "microphone"
+    },
+    {
+     "type": "in_out_of_ears"
+    },
+    {
+     "type": "box_communication"
+    },
+    {
+     "type": "antenna"
+    }
+   ]
+  },
+  "headsetOtaConfig": {
+   "forceUpdateAfterOtaFail": 0,
+   "otaState": 1,
+   "supportBreakpointResume": 1
+  },
+  "productAttr": {
+   "deviceType": "TYPE_TWS",
+   "noiseControlProtocol": "PROTOCOL_STANDARD",
+   "pullSwitchProtocol": "PROTOCOL_STANDARD",
+   "singleHeadsetBasic": "BATTERY",
+   "registerAllNotifyAtOnce": "PROTOCOL_STANDARD",
+   "operationGuide": 1
+  },
+  "viewItems": [
+   {
+    "itemType": "GROUP_DEVICE_3D"
+   },
+   {
+    "itemType": "GROUP_HEADER_BATTERY"
+   },
+   {
+    "itemType": "GROUP_SOUND_EFFECT",
+    "subItems": [
+     {
+      "itemType": "ITEM_SOUND_EFFECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_3D_SOUND_EFFECT"
+     },
+     {
+      "itemType": "ITEM_SOUND_ENHANCE",
+      "supportRegions": [
+       "3"
+      ]
+     },
+     {
+      "itemType": "ITEM_DYNAMIC_LOW_SOUND_SWITCH"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_MODE",
+    "subItems": [
+     {
+      "itemType": "ITEM_GAME_MODE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_PERSONALIZATION",
+    "subItems": [
+     {
+      "itemType": "ITEM_KEY_SETTING"
+     },
+     {
+      "itemType": "ITEM_PERSONALIZED_THEME"
+     },
+     {
+      "itemType": "ITEM_DOUBLE_DEVICE_CONNECT_CONFIG"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_SAFE",
+    "subItems": [
+     {
+      "itemType": "ITEM_SEARCH_HEADSET"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_USE_TIME"
+   },
+   {
+    "itemType": "GROUP_KEY_LEFT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_RIGHT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "realme TechLife Buds T200 Lite": {
+  "androidConfig": {
+   "delaySppConnect": "0",
+   "modelId": "067C52",
+   "sdkVendor": "VENDOR_TL",
+   "sppUUIDType": "TYPE_DEFAULT",
+   "supportMyDevice": "1"
+  },
+  "canUploadLog": -1,
+  "headsetOtaConfig": {
+   "forceUpdateAfterOtaFail": 0,
+   "otaState": 1,
+   "supportBreakpointResume": 1
+  },
+  "productAttr": {
+   "deviceType": "TYPE_TWS",
+   "noiseControlProtocol": "PROTOCOL_STANDARD",
+   "pullSwitchProtocol": "PROTOCOL_STANDARD",
+   "operationGuide": 1,
+   "registerAllNotifyAtOnce": "PROTOCOL_STANDARD",
+   "singleHeadsetBasic": "BATTERY"
+  },
+  "viewItems": [
+   {
+    "itemType": "GROUP_DEVICE_3D"
+   },
+   {
+    "itemType": "GROUP_HEADER_BATTERY"
+   },
+   {
+    "itemType": "GROUP_SOUND_EFFECT",
+    "subItems": [
+     {
+      "itemType": "ITEM_SOUND_EFFECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_SOUND_ENHANCE",
+      "supportRegions": [
+       "3"
+      ]
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_OTHER",
+    "subItems": [
+     {
+      "itemType": "ITEM_GAME_MODE"
+     },
+     {
+      "itemType": "ITEM_PERSONALIZED_THEME"
+     },
+     {
+      "itemType": "ITEM_KEY_SETTING"
+     },
+     {
+      "itemType": "ITEM_DOUBLE_DEVICE_CONNECT_CONFIG"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_LEFT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_RIGHT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_LEFT_RIGHT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "realme TechLife Buds T500": {
+  "androidConfig": {
+   "delaySppConnect": "0",
+   "modelId": "067052",
+   "sdkVendor": "VENDOR_TL",
+   "sppUUIDType": "TYPE_DEFAULT",
+   "supportMyDevice": "1",
+   "needGetEqAfterSet": "0",
+   "sppCmdInterval": 10
+  },
+  "canUploadLog": 1,
+  "headsetDetectConfig": {
+   "items": [
+    {
+     "type": "tws_pair"
+    },
+    {
+     "type": "touch"
+    },
+    {
+     "type": "horn"
+    },
+    {
+     "type": "microphone"
+    },
+    {
+     "type": "noisereduction"
+    },
+    {
+     "type": "in_out_of_ears"
+    },
+    {
+     "type": "box_communication"
+    },
+    {
+     "type": "antenna"
+    }
+   ]
+  },
+  "headsetOtaConfig": {
+   "forceUpdateAfterOtaFail": 0,
+   "otaState": 1,
+   "supportBreakpointResume": 1
+  },
+  "productAttr": {
+   "deviceType": "TYPE_TWS",
+   "noiseControlProtocol": "PROTOCOL_STANDARD",
+   "pullSwitchProtocol": "PROTOCOL_STANDARD",
+   "singleHeadsetBasic": "BATTERY",
+   "registerAllNotifyAtOnce": "PROTOCOL_STANDARD",
+   "spatialAudioConflictHighQualitySound": "1",
+   "operationGuide": 1
+  },
+  "viewItems": [
+   {
+    "itemType": "GROUP_DEVICE_3D"
+   },
+   {
+    "itemType": "GROUP_HEADER_BATTERY"
+   },
+   {
+    "itemType": "GROUP_NOISE_CONTROL",
+    "subItems": [
+     {
+      "itemType": "GROUP_NOISE_CONTROL_MODE",
+      "subItems": [
+       {
+        "itemType": "ITEM_NOISE_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_NOISE_CLOSE"
+       },
+       {
+        "itemType": "ITEM_NOISE_TRANSPARENT"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_SOUND_EFFECT",
+    "subItems": [
+     {
+      "itemType": "ITEM_SOUND_EFFECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_3D_SOUND_EFFECT"
+     },
+     {
+      "itemType": "ITEM_SOUND_ENHANCE",
+      "supportRegions": [
+       "3"
+      ]
+     },
+     {
+      "itemType": "ITEM_DYNAMIC_SOUND_EFFECT"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_MODE",
+    "subItems": [
+     {
+      "itemType": "ITEM_GAME_MODE"
+     },
+     {
+      "itemType": "ITEM_WHITE_NOISE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_PERSONALIZATION",
+    "subItems": [
+     {
+      "itemType": "ITEM_KEY_SETTING"
+     },
+     {
+      "itemType": "ITEM_PERSONALIZED_THEME"
+     },
+     {
+      "itemType": "ITEM_TRIBBLE_DEVICE_CONNECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_TAKE_PHOTO"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_SAFE",
+    "subItems": [
+     {
+      "itemType": "ITEM_SEARCH_HEADSET"
+     },
+     {
+      "itemType": "ITEM_FIND_PHONE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_USE_TIME"
+   },
+   {
+    "itemType": "GROUP_KEY_LEFT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ],
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_RIGHT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ],
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ]
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "realme TechLife Buds T500 Pro": {
+  "androidConfig": {
+   "delaySppConnect": "0",
+   "modelId": "067852",
+   "sdkVendor": "VENDOR_TL",
+   "sppUUIDType": "TYPE_DEFAULT",
+   "supportMyDevice": "1",
+   "needGetEqAfterSet": "0",
+   "sppCmdInterval": 10
+  },
+  "canUploadLog": 1,
+  "headsetDetectConfig": {
+   "items": [
+    {
+     "type": "tws_pair"
+    },
+    {
+     "type": "touch"
+    },
+    {
+     "type": "horn"
+    },
+    {
+     "type": "microphone"
+    },
+    {
+     "type": "noisereduction"
+    },
+    {
+     "type": "in_out_of_ears"
+    },
+    {
+     "type": "box_communication"
+    },
+    {
+     "type": "antenna"
+    }
+   ]
+  },
+  "headsetOtaConfig": {
+   "forceUpdateAfterOtaFail": 0,
+   "otaState": 1,
+   "supportBreakpointResume": 1
+  },
+  "productAttr": {
+   "deviceType": "TYPE_TWS",
+   "noiseControlProtocol": "PROTOCOL_STANDARD",
+   "pullSwitchProtocol": "PROTOCOL_STANDARD",
+   "singleHeadsetBasic": "BATTERY",
+   "registerAllNotifyAtOnce": "PROTOCOL_STANDARD",
+   "spatialAudioConflictHighQualitySound": "1",
+   "operationGuide": 1
+  },
+  "viewItems": [
+   {
+    "itemType": "GROUP_DEVICE_3D"
+   },
+   {
+    "itemType": "GROUP_HEADER_BATTERY"
+   },
+   {
+    "itemType": "GROUP_NOISE_CONTROL",
+    "subItems": [
+     {
+      "itemType": "GROUP_NOISE_CONTROL_MODE",
+      "subItems": [
+       {
+        "itemType": "ITEM_NOISE_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_NOISE_CLOSE"
+       },
+       {
+        "itemType": "ITEM_NOISE_TRANSPARENT"
+       }
+      ]
+     },
+     {
+      "itemType": "GROUP_NOISE_CONTROL_MODE_LIST",
+      "subItems": [
+       {
+        "itemType": "ITEM_SMART_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_DEEP_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_MEDIUM_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_LIGHT_REDUCTION"
+       }
+      ]
+     },
+     {
+      "itemType": "ITEM_NOISE_CONTROL_STRENGTHEN_VOICE"
+     },
+     {
+      "itemType": "ITEM_NOISE_CONTROL_WIND_NOISE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_SOUND_EFFECT",
+    "subItems": [
+     {
+      "itemType": "ITEM_SOUND_EFFECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_3D_SOUND_EFFECT"
+     },
+     {
+      "itemType": "ITEM_SOUND_ENHANCE",
+      "supportRegions": [
+       "3"
+      ]
+     },
+     {
+      "itemType": "ITEM_HI_RES_MODE"
+     },
+     {
+      "itemType": "ITEM_DYNAMIC_SOUND_EFFECT"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_AI",
+    "subItems": [
+     {
+      "itemType": "ITEM_AI_TRANSLATE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_MODE",
+    "subItems": [
+     {
+      "itemType": "ITEM_GAME_MODE"
+     },
+     {
+      "itemType": "ITEM_WHITE_NOISE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_PERSONALIZATION",
+    "subItems": [
+     {
+      "itemType": "ITEM_KEY_SETTING"
+     },
+     {
+      "itemType": "ITEM_PERSONALIZED_THEME"
+     },
+     {
+      "itemType": "ITEM_TRIBBLE_DEVICE_CONNECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_SMART_PLAY_PAUSE"
+     },
+     {
+      "itemType": "ITEM_AUTO_ANSWER"
+     },
+     {
+      "itemType": "ITEM_TAKE_PHOTO"
+     },
+     {
+      "itemType": "ITEM_COMPACTNESS_DETECT"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_SAFE",
+    "subItems": [
+     {
+      "itemType": "ITEM_SEARCH_HEADSET"
+     },
+     {
+      "itemType": "ITEM_FIND_PHONE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_USE_TIME"
+   },
+   {
+    "itemType": "GROUP_KEY_LEFT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_AI_TRANSLATE_CONVERSATION",
+        "VALUE_AI_TRANSLATE_LIVE",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_AI_TRANSLATE_CONVERSATION",
+        "VALUE_AI_TRANSLATE_LIVE",
+        "VALUE_OFF"
+       ],
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_RIGHT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_AI_TRANSLATE_CONVERSATION",
+        "VALUE_AI_TRANSLATE_LIVE",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_AI_TRANSLATE_CONVERSATION",
+        "VALUE_AI_TRANSLATE_LIVE",
+        "VALUE_OFF"
+       ],
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ]
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "realme Buds Air 5": {
+  "androidConfig": {
+   "delaySppConnect": "0",
+   "modelId": "062012",
+   "sdkVendor": "VENDOR_TL",
+   "sppUUIDType": "TYPE_DEFAULT",
+   "supportMyDevice": "1"
+  },
+  "canUploadLog": -1,
+  "headsetOtaConfig": {
+   "forceUpdateAfterOtaFail": 0,
+   "otaState": 1,
+   "supportBreakpointResume": 1
+  },
+  "productAttr": {
+   "deviceType": "TYPE_TWS",
+   "noiseControlProtocol": "PROTOCOL_STANDARD",
+   "pullSwitchProtocol": "PROTOCOL_STANDARD",
+   "singleHeadsetBasic": "BATTERY"
+  },
+  "viewItems": [
+   {
+    "itemType": "GROUP_DEVICE_3D"
+   },
+   {
+    "itemType": "GROUP_HEADER_BATTERY"
+   },
+   {
+    "itemType": "GROUP_NOISE_CONTROL",
+    "subItems": [
+     {
+      "itemType": "GROUP_NOISE_CONTROL_MODE",
+      "subItems": [
+       {
+        "itemType": "ITEM_NOISE_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_NOISE_CLOSE"
+       },
+       {
+        "itemType": "ITEM_NOISE_TRANSPARENT"
+       }
+      ]
+     },
+     {
+      "itemType": "GROUP_NOISE_CONTROL_MODE_LIST",
+      "subItems": [
+       {
+        "itemType": "ITEM_SMART_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_DEEP_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_MEDIUM_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_LIGHT_REDUCTION"
+       }
+      ]
+     },
+     {
+      "itemType": "ITEM_NOISE_CONTROL_STRENGTHEN_VOICE"
+     },
+     {
+      "itemType": "ITEM_NOISE_CONTROL_WIND_NOISE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_SOUND_EFFECT",
+    "subItems": [
+     {
+      "itemType": "ITEM_SOUND_EFFECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_DYNAMIC_LOW_SOUND"
+     },
+     {
+      "itemType": "ITEM_SOUND_ENHANCE",
+      "supportRegions": [
+       "3"
+      ]
+     },
+     {
+      "itemType": "ITEM_DOLBY_ATMOS"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_OTHER",
+    "subItems": [
+     {
+      "itemType": "ITEM_GAME_MODE"
+     },
+     {
+      "itemType": "ITEM_COMPACTNESS_DETECT"
+     },
+     {
+      "itemType": "ITEM_KEY_SETTING"
+     },
+     {
+      "itemType": "ITEM_MORE",
+      "subItems": [
+       {
+        "itemType": "ITEM_SMART_PLAY_PAUSE"
+       },
+       {
+        "itemType": "ITEM_AUTO_ANSWER"
+       },
+       {
+        "itemType": "ITEM_TAKE_PHOTO"
+       },
+       {
+        "itemType": "ITEM_SEARCH_HEADSET"
+       },
+       {
+        "itemType": "ITEM_FIND_PHONE"
+       },
+       {
+        "itemType": "ITEM_PERSONALIZED_THEME"
+       },
+       {
+        "itemType": "GROUP_USE_TIME"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_LEFT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_CHANGE_DEVICE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ],
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_RIGHT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_CHANGE_DEVICE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ],
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ]
+      }
+     }
+    ]
+   }
+  ],
+  "headsetDetectConfig": {
+   "items": [
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "tws_pair"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "touch"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "horn"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "microphone"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "noisereduction"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "in_out_of_ears"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "box_communication"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "antenna"
+    }
+   ],
+   "minSupportVersion": "0.0.0.0",
+   "minUnSupportVersion": "9.9.9.9"
+  },
+  "statusDisplayConfig": {
+   "minSupportVersion": "0.0.0.0",
+   "minUnSupportVersion": "9.9.9.9",
+   "supportStatus": [
+    {
+     "feature": 1,
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9"
+    },
+    {
+     "feature": 2
+    },
+    {
+     "feature": 3
+    },
+    {
+     "feature": 4
+    },
+    {
+     "feature": 5
+    },
+    {
+     "feature": 6
+    },
+    {
+     "feature": 7
+    },
+    {
+     "feature": 8
+    },
+    {
+     "feature": 9
+    },
+    {
+     "feature": 10
+    }
+   ]
+  }
+ },
+ "realme Buds Air 5 Pro": {
+  "androidConfig": {
+   "delaySppConnect": "0",
+   "modelId": "061C12",
+   "sdkVendor": "VENDOR_TL",
+   "sppUUIDType": "TYPE_DEFAULT",
+   "sppCmdInterval": 10
+  },
+  "canUploadLog": -1,
+  "headsetDetectConfig": {
+   "items": [
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "tws_pair"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "touch"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "horn"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "microphone"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "noisereduction"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "in_out_of_ears"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "box_communication"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "antenna"
+    }
+   ],
+   "minSupportVersion": "0.0.0.0",
+   "minUnSupportVersion": "9.9.9.9"
+  },
+  "headsetOtaConfig": {
+   "forceUpdateAfterOtaFail": 0,
+   "otaState": 1,
+   "supportBreakpointResume": 1
+  },
+  "productAttr": {
+   "deviceType": "TYPE_TWS",
+   "noiseControlProtocol": "PROTOCOL_STANDARD",
+   "pullSwitchProtocol": "PROTOCOL_STANDARD",
+   "singleHeadsetBasic": "BATTERY",
+   "customEqFreq": [
+    100,
+    170,
+    400,
+    4300,
+    9500,
+    12000
+   ]
+  },
+  "statusDisplayConfig": {
+   "minSupportVersion": "0.0.0.0",
+   "minUnSupportVersion": "9.9.9.9",
+   "supportStatus": [
+    {
+     "feature": 1,
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9"
+    },
+    {
+     "feature": 2
+    },
+    {
+     "feature": 3
+    },
+    {
+     "feature": 4
+    },
+    {
+     "feature": 5
+    },
+    {
+     "feature": 6
+    },
+    {
+     "feature": 7
+    },
+    {
+     "feature": 8
+    },
+    {
+     "feature": 9
+    },
+    {
+     "feature": 10
+    }
+   ]
+  },
+  "viewItems": [
+   {
+    "itemType": "GROUP_DEVICE_3D"
+   },
+   {
+    "itemType": "GROUP_HEADER_BATTERY"
+   },
+   {
+    "itemType": "GROUP_NOISE_CONTROL",
+    "subItems": [
+     {
+      "itemType": "GROUP_NOISE_CONTROL_MODE",
+      "subItems": [
+       {
+        "itemType": "ITEM_NOISE_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_NOISE_CLOSE"
+       },
+       {
+        "itemType": "ITEM_NOISE_TRANSPARENT"
+       }
+      ]
+     },
+     {
+      "itemType": "GROUP_NOISE_CONTROL_MODE_LIST",
+      "subItems": [
+       {
+        "itemType": "ITEM_SMART_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_DEEP_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_MEDIUM_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_LIGHT_REDUCTION"
+       }
+      ]
+     },
+     {
+      "itemType": "ITEM_NOISE_CONTROL_STRENGTHEN_VOICE"
+     },
+     {
+      "itemType": "ITEM_NOISE_CONTROL_PERSONALIZATION"
+     },
+     {
+      "itemType": "ITEM_NOISE_CONTROL_WIND_NOISE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_SOUND_EFFECT",
+    "subItems": [
+     {
+      "itemType": "ITEM_SOUND_EFFECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_GOLDEN_HEARING"
+     },
+     {
+      "itemType": "ITEM_3D_SOUND_EFFECT"
+     },
+     {
+      "itemType": "ITEM_HIGH_QUALITY_SOUND"
+     },
+     {
+      "itemType": "ITEM_DYNAMIC_LOW_SOUND"
+     },
+     {
+      "itemType": "ITEM_SOUND_ENHANCE",
+      "supportRegions": [
+       "3"
+      ]
+     },
+     {
+      "itemType": "ITEM_DOLBY_ATMOS"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_OTHER",
+    "subItems": [
+     {
+      "itemType": "ITEM_DOUBLE_DEVICE_CONNECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_GAME_MODE"
+     },
+     {
+      "itemType": "ITEM_COMPACTNESS_DETECT"
+     },
+     {
+      "itemType": "ITEM_KEY_SETTING"
+     },
+     {
+      "itemType": "ITEM_MORE",
+      "subItems": [
+       {
+        "itemType": "ITEM_PERSONALIZED_THEME"
+       },
+       {
+        "itemType": "ITEM_WEAR_DETECT"
+       },
+       {
+        "itemType": "ITEM_AUTO_ANSWER"
+       },
+       {
+        "itemType": "ITEM_TAKE_PHOTO"
+       },
+       {
+        "itemType": "ITEM_SEARCH_HEADSET"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_LEFT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ],
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_RIGHT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ],
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ]
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "realme Buds Air 3S": {
+  "androidConfig": {
+   "delaySppConnect": "0",
+   "modelId": "061012",
+   "sdkVendor": "VENDOR_TL",
+   "sppUUIDType": "TYPE_DEFAULT"
+  },
+  "canUploadLog": -1,
+  "headsetOtaConfig": {
+   "forceUpdateAfterOtaFail": 0,
+   "otaState": 1,
+   "supportBreakpointResume": 1
+  },
+  "productAttr": {
+   "deviceType": "TYPE_TWS",
+   "noiseControlProtocol": "PROTOCOL_FREE_STYLE",
+   "pullSwitchProtocol": "PROTOCOL_STANDARD",
+   "singleHeadsetBasic": "BATTERY"
+  },
+  "viewItems": [
+   {
+    "itemType": "GROUP_DEVICE_TWS_LARGE_ICON"
+   },
+   {
+    "itemType": "GROUP_SOUND_EFFECT",
+    "subItems": [
+     {
+      "itemType": "GROUP_SOUND_EFFECT_MODE_GRID",
+      "subItems": [
+       {
+        "itemType": "ITEM_PURE_VOICE"
+       },
+       {
+        "itemType": "ITEM_PURE_RAW"
+       },
+       {
+        "itemType": "ITEM_BASS_PURE"
+       },
+       {
+        "itemType": "ITEM_BASS_FAT"
+       }
+      ]
+     },
+     {
+      "itemType": "ITEM_CUSTOM_EQ"
+     },
+     {
+      "itemType": "ITEM_SOUND_ENHANCE"
+     },
+     {
+      "itemType": "ITEM_DOLBY_ATMOS"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_MODE",
+    "subItems": [
+     {
+      "itemType": "ITEM_GAME_MODE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_OTHER",
+    "subItems": [
+     {
+      "itemType": "ITEM_TAKE_PHOTO"
+     },
+     {
+      "itemType": "ITEM_DOUBLE_DEVICE_CONNECT"
+     },
+     {
+      "itemType": "ITEM_KEY_SETTING"
+     },
+     {
+      "itemType": "ITEM_PERSONALIZED_THEME"
+     },
+     {
+      "itemType": "ITEM_SEARCH_HEADSET"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_LEFT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_RIGHT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_LEFT_RIGHT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "realme Buds Air6": {
+  "androidConfig": {
+   "delaySppConnect": "0",
+   "modelId": "063412",
+   "sdkVendor": "VENDOR_TL",
+   "sppUUIDType": "TYPE_DEFAULT",
+   "supportMyDevice": "1"
+  },
+  "canUploadLog": -1,
+  "headsetOtaConfig": {
+   "forceUpdateAfterOtaFail": 0,
+   "otaState": 1,
+   "supportBreakpointResume": 1
+  },
+  "productAttr": {
+   "deviceType": "TYPE_TWS",
+   "noiseControlProtocol": "PROTOCOL_STANDARD",
+   "pullSwitchProtocol": "PROTOCOL_STANDARD",
+   "operationGuide": 1,
+   "singleHeadsetBasic": "BATTERY"
+  },
+  "viewItems": [
+   {
+    "itemType": "GROUP_DEVICE_3D"
+   },
+   {
+    "itemType": "GROUP_HEADER_BATTERY"
+   },
+   {
+    "itemType": "GROUP_NOISE_CONTROL",
+    "subItems": [
+     {
+      "itemType": "GROUP_NOISE_CONTROL_MODE",
+      "subItems": [
+       {
+        "itemType": "ITEM_NOISE_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_NOISE_CLOSE"
+       },
+       {
+        "itemType": "ITEM_NOISE_TRANSPARENT"
+       }
+      ]
+     },
+     {
+      "itemType": "GROUP_NOISE_CONTROL_MODE_LIST",
+      "subItems": [
+       {
+        "itemType": "ITEM_SMART_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_DEEP_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_MEDIUM_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_LIGHT_REDUCTION"
+       }
+      ]
+     },
+     {
+      "itemType": "ITEM_NOISE_CONTROL_STRENGTHEN_VOICE"
+     },
+     {
+      "itemType": "ITEM_NOISE_CONTROL_WIND_NOISE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_SOUND_EFFECT",
+    "subItems": [
+     {
+      "itemType": "ITEM_SOUND_EFFECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_HI_RES_MODE"
+     },
+     {
+      "itemType": "ITEM_DYNAMIC_LOW_SOUND"
+     },
+     {
+      "itemType": "ITEM_SOUND_ENHANCE",
+      "supportRegions": [
+       "3"
+      ]
+     },
+     {
+      "itemType": "ITEM_DOLBY_ATMOS"
+     },
+     {
+      "itemType": "ITEM_OREALITY_AUDIO"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_OTHER",
+    "subItems": [
+     {
+      "itemType": "ITEM_GAME_MODE"
+     },
+     {
+      "itemType": "ITEM_COMPACTNESS_DETECT"
+     },
+     {
+      "itemType": "ITEM_WHITE_NOISE"
+     },
+     {
+      "itemType": "ITEM_KEY_SETTING"
+     },
+     {
+      "itemType": "ITEM_MORE",
+      "subItems": [
+       {
+        "itemType": "ITEM_SMART_PLAY_PAUSE"
+       },
+       {
+        "itemType": "ITEM_AUTO_ANSWER"
+       },
+       {
+        "itemType": "ITEM_TAKE_PHOTO"
+       },
+       {
+        "itemType": "ITEM_SEARCH_HEADSET"
+       },
+       {
+        "itemType": "ITEM_FIND_PHONE"
+       },
+       {
+        "itemType": "ITEM_PERSONALIZED_THEME"
+       },
+       {
+        "itemType": "GROUP_USE_TIME"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_LEFT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_CHANGE_DEVICE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ],
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_RIGHT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_CHANGE_DEVICE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ],
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ]
+      }
+     }
+    ]
+   }
+  ],
+  "headsetDetectConfig": {
+   "items": [
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "tws_pair"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "touch"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "horn"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "microphone"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "noisereduction"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "in_out_of_ears"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "box_communication"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "antenna"
+    }
+   ],
+   "minSupportVersion": "0.0.0.0",
+   "minUnSupportVersion": "9.9.9.9"
+  },
+  "statusDisplayConfig": {
+   "minSupportVersion": "0.0.0.0",
+   "minUnSupportVersion": "9.9.9.9",
+   "supportStatus": [
+    {
+     "feature": 1,
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9"
+    },
+    {
+     "feature": 2
+    },
+    {
+     "feature": 3
+    },
+    {
+     "feature": 4
+    },
+    {
+     "feature": 5
+    },
+    {
+     "feature": 6
+    },
+    {
+     "feature": 7
+    },
+    {
+     "feature": 8
+    },
+    {
+     "feature": 9
+    },
+    {
+     "feature": 10
+    }
+   ]
+  }
+ },
+ "realme Buds Air6 Pro": {
+  "androidConfig": {
+   "delaySppConnect": "0",
+   "modelId": "063012",
+   "sdkVendor": "VENDOR_TL",
+   "sppUUIDType": "TYPE_DEFAULT",
+   "sppCmdInterval": 10,
+   "supportMyDevice": "1"
+  },
+  "canUploadLog": -1,
+  "headsetDetectConfig": {
+   "items": [
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "tws_pair"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "touch"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "horn"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "microphone"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "noisereduction"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "in_out_of_ears"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "box_communication"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "antenna"
+    }
+   ],
+   "minSupportVersion": "0.0.0.0",
+   "minUnSupportVersion": "9.9.9.9"
+  },
+  "headsetOtaConfig": {
+   "forceUpdateAfterOtaFail": 0,
+   "otaState": 1,
+   "supportBreakpointResume": 1
+  },
+  "productAttr": {
+   "deviceType": "TYPE_TWS",
+   "noiseControlProtocol": "PROTOCOL_STANDARD",
+   "pullSwitchProtocol": "PROTOCOL_STANDARD",
+   "operationGuide": 1,
+   "singleHeadsetBasic": "BATTERY",
+   "customEqFreq": [
+    100,
+    170,
+    400,
+    4300,
+    9500,
+    12000
+   ]
+  },
+  "statusDisplayConfig": {
+   "minSupportVersion": "0.0.0.0",
+   "minUnSupportVersion": "9.9.9.9",
+   "supportStatus": [
+    {
+     "feature": 1,
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9"
+    },
+    {
+     "feature": 2
+    },
+    {
+     "feature": 3
+    },
+    {
+     "feature": 4
+    },
+    {
+     "feature": 5
+    },
+    {
+     "feature": 6
+    },
+    {
+     "feature": 7
+    },
+    {
+     "feature": 8
+    },
+    {
+     "feature": 9
+    },
+    {
+     "feature": 10
+    }
+   ]
+  },
+  "viewItems": [
+   {
+    "itemType": "GROUP_DEVICE_3D"
+   },
+   {
+    "itemType": "GROUP_HEADER_BATTERY"
+   },
+   {
+    "itemType": "GROUP_NOISE_CONTROL",
+    "subItems": [
+     {
+      "itemType": "GROUP_NOISE_CONTROL_MODE",
+      "subItems": [
+       {
+        "itemType": "ITEM_NOISE_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_NOISE_CLOSE"
+       },
+       {
+        "itemType": "ITEM_NOISE_TRANSPARENT"
+       }
+      ]
+     },
+     {
+      "itemType": "GROUP_NOISE_CONTROL_MODE_LIST",
+      "subItems": [
+       {
+        "itemType": "ITEM_SMART_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_DEEP_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_MEDIUM_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_LIGHT_REDUCTION"
+       }
+      ]
+     },
+     {
+      "itemType": "ITEM_NOISE_CONTROL_STRENGTHEN_VOICE"
+     },
+     {
+      "itemType": "ITEM_NOISE_CONTROL_PERSONALIZATION"
+     },
+     {
+      "itemType": "ITEM_NOISE_CONTROL_WIND_NOISE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_SOUND_EFFECT",
+    "subItems": [
+     {
+      "itemType": "ITEM_SOUND_EFFECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_GOLDEN_HEARING"
+     },
+     {
+      "itemType": "ITEM_3D_SOUND_EFFECT"
+     },
+     {
+      "itemType": "ITEM_HIGH_QUALITY_SOUND"
+     },
+     {
+      "itemType": "ITEM_DYNAMIC_LOW_SOUND"
+     },
+     {
+      "itemType": "ITEM_SOUND_ENHANCE",
+      "supportRegions": [
+       "3"
+      ]
+     },
+     {
+      "itemType": "ITEM_DOLBY_ATMOS"
+     },
+     {
+      "itemType": "ITEM_OREALITY_AUDIO"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_OTHER",
+    "subItems": [
+     {
+      "itemType": "ITEM_DOUBLE_DEVICE_CONNECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_GAME_MODE"
+     },
+     {
+      "itemType": "ITEM_COMPACTNESS_DETECT"
+     },
+     {
+      "itemType": "ITEM_WHITE_NOISE"
+     },
+     {
+      "itemType": "ITEM_KEY_SETTING"
+     },
+     {
+      "itemType": "ITEM_MORE",
+      "subItems": [
+       {
+        "itemType": "ITEM_PERSONALIZED_THEME"
+       },
+       {
+        "itemType": "ITEM_WEAR_DETECT"
+       },
+       {
+        "itemType": "ITEM_AUTO_ANSWER"
+       },
+       {
+        "itemType": "ITEM_TAKE_PHOTO"
+       },
+       {
+        "itemType": "ITEM_SEARCH_HEADSET"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_LEFT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ],
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_RIGHT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ],
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ]
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "realme Buds Air7": {
+  "androidConfig": {
+   "delaySppConnect": "0",
+   "modelId": "064812",
+   "sdkVendor": "VENDOR_TL",
+   "sppUUIDType": "TYPE_DEFAULT",
+   "supportMyDevice": "1",
+   "sppCmdInterval": 10
+  },
+  "canUploadLog": 1,
+  "headsetOtaConfig": {
+   "forceUpdateAfterOtaFail": 0,
+   "otaState": 1,
+   "supportBreakpointResume": 1
+  },
+  "productAttr": {
+   "deviceType": "TYPE_TWS",
+   "noiseControlProtocol": "PROTOCOL_STANDARD",
+   "pullSwitchProtocol": "PROTOCOL_STANDARD",
+   "operationGuide": 1,
+   "registerAllNotifyAtOnce": "PROTOCOL_STANDARD",
+   "singleHeadsetBasic": "BATTERY"
+  },
+  "viewItems": [
+   {
+    "itemType": "GROUP_DEVICE_3D"
+   },
+   {
+    "itemType": "GROUP_HEADER_BATTERY"
+   },
+   {
+    "itemType": "GROUP_NOISE_CONTROL",
+    "subItems": [
+     {
+      "itemType": "GROUP_NOISE_CONTROL_MODE",
+      "subItems": [
+       {
+        "itemType": "ITEM_NOISE_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_NOISE_CLOSE"
+       },
+       {
+        "itemType": "ITEM_NOISE_TRANSPARENT"
+       }
+      ]
+     },
+     {
+      "itemType": "GROUP_NOISE_CONTROL_MODE_LIST",
+      "subItems": [
+       {
+        "itemType": "ITEM_SMART_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_DEEP_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_MEDIUM_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_LIGHT_REDUCTION"
+       }
+      ]
+     },
+     {
+      "itemType": "ITEM_NOISE_CONTROL_STRENGTHEN_VOICE"
+     },
+     {
+      "itemType": "ITEM_NOISE_CONTROL_WIND_NOISE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_SOUND_EFFECT",
+    "subItems": [
+     {
+      "itemType": "ITEM_DYNAMIC_SOUND_EFFECT"
+     },
+     {
+      "itemType": "ITEM_SOUND_EFFECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_HI_RES_MODE"
+     },
+     {
+      "itemType": "ITEM_SOUND_ENHANCE",
+      "supportRegions": [
+       "3"
+      ]
+     },
+     {
+      "itemType": "ITEM_3D_SOUND_EFFECT"
+     },
+     {
+      "itemType": "ITEM_DOLBY_ATMOS"
+     },
+     {
+      "itemType": "ITEM_OREALITY_AUDIO"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_OTHER",
+    "subItems": [
+     {
+      "itemType": "ITEM_DOUBLE_DEVICE_CONNECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_GAME_MODE"
+     },
+     {
+      "itemType": "ITEM_COMPACTNESS_DETECT"
+     },
+     {
+      "itemType": "ITEM_WHITE_NOISE"
+     },
+     {
+      "itemType": "ITEM_KEY_SETTING"
+     },
+     {
+      "itemType": "ITEM_MORE",
+      "subItems": [
+       {
+        "itemType": "ITEM_SMART_PLAY_PAUSE"
+       },
+       {
+        "itemType": "ITEM_AUTO_ANSWER"
+       },
+       {
+        "itemType": "ITEM_TAKE_PHOTO"
+       },
+       {
+        "itemType": "ITEM_SEARCH_HEADSET"
+       },
+       {
+        "itemType": "ITEM_FIND_PHONE"
+       },
+       {
+        "itemType": "ITEM_PERSONALIZED_THEME"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_LEFT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ],
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_RIGHT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ],
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ]
+      }
+     }
+    ]
+   }
+  ],
+  "headsetDetectConfig": {
+   "items": [
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "tws_pair"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "touch"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "horn"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "microphone"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "noisereduction"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "in_out_of_ears"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "box_communication"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "antenna"
+    }
+   ],
+   "minSupportVersion": "0.0.0.0",
+   "minUnSupportVersion": "9.9.9.9"
+  },
+  "statusDisplayConfig": {
+   "minSupportVersion": "0.0.0.0",
+   "minUnSupportVersion": "9.9.9.9",
+   "supportStatus": [
+    {
+     "feature": 1,
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9"
+    },
+    {
+     "feature": 2
+    },
+    {
+     "feature": 3
+    },
+    {
+     "feature": 4
+    },
+    {
+     "feature": 5
+    },
+    {
+     "feature": 6
+    },
+    {
+     "feature": 7
+    },
+    {
+     "feature": 8
+    },
+    {
+     "feature": 9
+    },
+    {
+     "feature": 10
+    }
+   ]
+  }
+ },
+ "realme Buds Air7 Pro": {
+  "androidConfig": {
+   "delaySppConnect": "0",
+   "modelId": "064C12",
+   "sdkVendor": "VENDOR_TL",
+   "sppUUIDType": "TYPE_DEFAULT",
+   "supportMyDevice": "1",
+   "sppCmdInterval": 10
+  },
+  "canUploadLog": 1,
+  "headsetDetectConfig": {
+   "items": [
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "tws_pair"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "touch"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "horn"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "microphone"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "noisereduction"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "in_out_of_ears"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "box_communication"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "antenna"
+    }
+   ],
+   "minSupportVersion": "0.0.0.0",
+   "minUnSupportVersion": "9.9.9.9"
+  },
+  "headsetOtaConfig": {
+   "forceUpdateAfterOtaFail": 0,
+   "otaState": 1,
+   "supportBreakpointResume": 1
+  },
+  "productAttr": {
+   "deviceType": "TYPE_TWS",
+   "noiseControlProtocol": "PROTOCOL_STANDARD",
+   "pullSwitchProtocol": "PROTOCOL_STANDARD",
+   "singleHeadsetBasic": "BATTERY",
+   "registerAllNotifyAtOnce": "PROTOCOL_STANDARD",
+   "operationGuide": 1
+  },
+  "viewItems": [
+   {
+    "itemType": "GROUP_DEVICE_3D"
+   },
+   {
+    "itemType": "GROUP_HEADER_BATTERY"
+   },
+   {
+    "itemType": "GROUP_NOISE_CONTROL",
+    "subItems": [
+     {
+      "itemType": "GROUP_NOISE_CONTROL_MODE",
+      "subItems": [
+       {
+        "itemType": "ITEM_NOISE_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_NOISE_CLOSE"
+       },
+       {
+        "itemType": "ITEM_NOISE_TRANSPARENT"
+       }
+      ]
+     },
+     {
+      "itemType": "GROUP_NOISE_CONTROL_MODE_LIST",
+      "subItems": [
+       {
+        "itemType": "ITEM_SMART_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_DEEP_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_MEDIUM_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_LIGHT_REDUCTION"
+       }
+      ]
+     },
+     {
+      "itemType": "ITEM_NOISE_CONTROL_STRENGTHEN_VOICE"
+     },
+     {
+      "itemType": "ITEM_NOISE_CONTROL_WIND_NOISE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_SOUND_EFFECT",
+    "subItems": [
+     {
+      "itemType": "ITEM_SOUND_EFFECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_GOLDEN_HEARING"
+     },
+     {
+      "itemType": "ITEM_3D_SOUND_EFFECT"
+     },
+     {
+      "itemType": "ITEM_SOUND_ENHANCE",
+      "supportRegions": [
+       "3"
+      ]
+     },
+     {
+      "itemType": "ITEM_HI_RES_MODE"
+     },
+     {
+      "itemType": "ITEM_DYNAMIC_SOUND_EFFECT"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_AI",
+    "minSupportVersion": "1.1.0.70",
+    "subItems": [
+     {
+      "itemType": "ITEM_AI_ASSIST",
+      "minSupportVersion": "1.1.0.89",
+      "audioDataManufacturer": "BES"
+     },
+     {
+      "itemType": "ITEM_AI_TRANSLATE",
+      "minSupportVersion": "1.1.0.70"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_MODE",
+    "subItems": [
+     {
+      "itemType": "ITEM_GAME_MODE"
+     },
+     {
+      "itemType": "ITEM_WHITE_NOISE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_PERSONALIZATION",
+    "subItems": [
+     {
+      "itemType": "ITEM_KEY_SETTING"
+     },
+     {
+      "itemType": "ITEM_PERSONALIZED_THEME"
+     },
+     {
+      "itemType": "ITEM_DOUBLE_DEVICE_CONNECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_SMART_PLAY_PAUSE"
+     },
+     {
+      "itemType": "ITEM_AUTO_ANSWER"
+     },
+     {
+      "itemType": "ITEM_TAKE_PHOTO"
+     },
+     {
+      "itemType": "ITEM_COMPACTNESS_DETECT"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_SAFE",
+    "subItems": [
+     {
+      "itemType": "ITEM_SEARCH_HEADSET"
+     },
+     {
+      "itemType": "ITEM_FIND_PHONE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_USE_TIME"
+   },
+   {
+    "itemType": "GROUP_KEY_LEFT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_AI_ASSIST",
+        "VALUE_AI_TRANSLATE_CONVERSATION",
+        "VALUE_AI_TRANSLATE_LIVE",
+        "VALUE_OFF"
+       ],
+       "optionSupportVersions": {
+        "VALUE_AI_ASSIST": "1.1.0.89",
+        "VALUE_AI_TRANSLATE_CONVERSATION": "1.1.0.70",
+        "VALUE_AI_TRANSLATE_LIVE": "1.1.0.70"
+       }
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_AI_ASSIST",
+        "VALUE_AI_TRANSLATE_CONVERSATION",
+        "VALUE_AI_TRANSLATE_LIVE",
+        "VALUE_OFF"
+       ],
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ],
+       "optionSupportVersions": {
+        "VALUE_AI_ASSIST": "1.1.0.89",
+        "VALUE_AI_TRANSLATE_CONVERSATION": "1.1.0.70",
+        "VALUE_AI_TRANSLATE_LIVE": "1.1.0.70"
+       }
+      }
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_RIGHT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_AI_ASSIST",
+        "VALUE_AI_TRANSLATE_CONVERSATION",
+        "VALUE_AI_TRANSLATE_LIVE",
+        "VALUE_OFF"
+       ],
+       "optionSupportVersions": {
+        "VALUE_AI_ASSIST": "1.1.0.89",
+        "VALUE_AI_TRANSLATE_CONVERSATION": "1.1.0.70",
+        "VALUE_AI_TRANSLATE_LIVE": "1.1.0.70"
+       }
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_AI_ASSIST",
+        "VALUE_AI_TRANSLATE_CONVERSATION",
+        "VALUE_AI_TRANSLATE_LIVE",
+        "VALUE_OFF"
+       ],
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ],
+       "optionSupportVersions": {
+        "VALUE_AI_ASSIST": "1.1.0.89",
+        "VALUE_AI_TRANSLATE_CONVERSATION": "1.1.0.70",
+        "VALUE_AI_TRANSLATE_LIVE": "1.1.0.70"
+       }
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "realme Buds Air8": {
+  "androidConfig": {
+   "delaySppConnect": "0",
+   "modelId": "066812",
+   "sdkVendor": "VENDOR_TL",
+   "sppUUIDType": "TYPE_DEFAULT",
+   "supportMyDevice": "1",
+   "needGetEqAfterSet": "0",
+   "sppCmdInterval": 10
+  },
+  "canUploadLog": 1,
+  "headsetDetectConfig": {
+   "items": [
+    {
+     "type": "tws_pair"
+    },
+    {
+     "type": "touch"
+    },
+    {
+     "type": "horn"
+    },
+    {
+     "type": "microphone"
+    },
+    {
+     "type": "noisereduction"
+    },
+    {
+     "type": "in_out_of_ears"
+    },
+    {
+     "type": "box_communication"
+    },
+    {
+     "type": "antenna"
+    }
+   ]
+  },
+  "headsetOtaConfig": {
+   "forceUpdateAfterOtaFail": 0,
+   "otaState": 1,
+   "supportBreakpointResume": 1
+  },
+  "productAttr": {
+   "deviceType": "TYPE_TWS",
+   "noiseControlProtocol": "PROTOCOL_STANDARD",
+   "pullSwitchProtocol": "PROTOCOL_STANDARD",
+   "singleHeadsetBasic": "BATTERY",
+   "registerAllNotifyAtOnce": "PROTOCOL_STANDARD",
+   "spatialAudioConflictHighQualitySound": "1",
+   "operationGuide": 1
+  },
+  "viewItems": [
+   {
+    "itemType": "GROUP_DEVICE_3D"
+   },
+   {
+    "itemType": "GROUP_HEADER_BATTERY"
+   },
+   {
+    "itemType": "GROUP_NOISE_CONTROL",
+    "subItems": [
+     {
+      "itemType": "GROUP_NOISE_CONTROL_MODE",
+      "subItems": [
+       {
+        "itemType": "ITEM_NOISE_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_NOISE_CLOSE"
+       },
+       {
+        "itemType": "ITEM_NOISE_TRANSPARENT"
+       }
+      ]
+     },
+     {
+      "itemType": "GROUP_NOISE_CONTROL_MODE_LIST",
+      "subItems": [
+       {
+        "itemType": "ITEM_SMART_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_DEEP_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_MEDIUM_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_LIGHT_REDUCTION"
+       }
+      ]
+     },
+     {
+      "itemType": "ITEM_NOISE_CONTROL_STRENGTHEN_VOICE"
+     },
+     {
+      "itemType": "ITEM_NOISE_CONTROL_WIND_NOISE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_SOUND_EFFECT",
+    "subItems": [
+     {
+      "itemType": "ITEM_SOUND_EFFECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_3D_SOUND_EFFECT"
+     },
+     {
+      "itemType": "ITEM_SOUND_ENHANCE",
+      "supportRegions": [
+       "3"
+      ]
+     },
+     {
+      "itemType": "ITEM_HI_RES_MODE"
+     },
+     {
+      "itemType": "ITEM_DOLBY_ATMOS"
+     },
+     {
+      "itemType": "ITEM_DYNAMIC_SOUND_EFFECT"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_AI",
+    "subItems": [
+     {
+      "itemType": "ITEM_AI_TRANSLATE"
+     },
+     {
+      "itemType": "ITEM_AI_ASSIST",
+      "audioDataManufacturer": "BES"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_MODE",
+    "subItems": [
+     {
+      "itemType": "ITEM_GAME_MODE"
+     },
+     {
+      "itemType": "ITEM_WHITE_NOISE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_PERSONALIZATION",
+    "subItems": [
+     {
+      "itemType": "ITEM_KEY_SETTING"
+     },
+     {
+      "itemType": "ITEM_PERSONALIZED_THEME"
+     },
+     {
+      "itemType": "ITEM_TRIBBLE_DEVICE_CONNECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_SMART_PLAY_PAUSE"
+     },
+     {
+      "itemType": "ITEM_AUTO_ANSWER"
+     },
+     {
+      "itemType": "ITEM_TAKE_PHOTO"
+     },
+     {
+      "itemType": "ITEM_COMPACTNESS_DETECT"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_SAFE",
+    "subItems": [
+     {
+      "itemType": "ITEM_SEARCH_HEADSET"
+     },
+     {
+      "itemType": "ITEM_FIND_PHONE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_USE_TIME"
+   },
+   {
+    "itemType": "GROUP_KEY_LEFT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_AI_ASSIST",
+        "VALUE_AI_TRANSLATE_CONVERSATION",
+        "VALUE_AI_TRANSLATE_LIVE",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_AI_ASSIST",
+        "VALUE_AI_TRANSLATE_CONVERSATION",
+        "VALUE_AI_TRANSLATE_LIVE",
+        "VALUE_OFF"
+       ],
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_RIGHT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_AI_ASSIST",
+        "VALUE_AI_TRANSLATE_CONVERSATION",
+        "VALUE_AI_TRANSLATE_LIVE",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_AI_ASSIST",
+        "VALUE_AI_TRANSLATE_CONVERSATION",
+        "VALUE_AI_TRANSLATE_LIVE",
+        "VALUE_OFF"
+       ],
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ]
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "realme Buds Air8 Pro": {
+  "androidConfig": {
+   "delaySppConnect": "0",
+   "modelId": "066C12",
+   "sdkVendor": "VENDOR_TL",
+   "sppUUIDType": "TYPE_DEFAULT",
+   "supportMyDevice": "1",
+   "needGetEqAfterSet": "0",
+   "sppCmdInterval": 10
+  },
+  "canUploadLog": 1,
+  "headsetDetectConfig": {
+   "items": [
+    {
+     "type": "tws_pair"
+    },
+    {
+     "type": "touch"
+    },
+    {
+     "type": "horn"
+    },
+    {
+     "type": "microphone"
+    },
+    {
+     "type": "noisereduction"
+    },
+    {
+     "type": "in_out_of_ears"
+    },
+    {
+     "type": "box_communication"
+    },
+    {
+     "type": "antenna"
+    }
+   ]
+  },
+  "headsetOtaConfig": {
+   "forceUpdateAfterOtaFail": 0,
+   "otaState": 1,
+   "supportBreakpointResume": 1
+  },
+  "productAttr": {
+   "deviceType": "TYPE_TWS",
+   "noiseControlProtocol": "PROTOCOL_STANDARD",
+   "pullSwitchProtocol": "PROTOCOL_STANDARD",
+   "singleHeadsetBasic": "BATTERY",
+   "registerAllNotifyAtOnce": "PROTOCOL_STANDARD",
+   "spatialAudioConflictHighQualitySound": "1",
+   "operationGuide": 1
+  },
+  "viewItems": [
+   {
+    "itemType": "GROUP_DEVICE_3D"
+   },
+   {
+    "itemType": "GROUP_HEADER_BATTERY"
+   },
+   {
+    "itemType": "GROUP_NOISE_CONTROL",
+    "subItems": [
+     {
+      "itemType": "GROUP_NOISE_CONTROL_MODE",
+      "subItems": [
+       {
+        "itemType": "ITEM_NOISE_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_NOISE_CLOSE"
+       },
+       {
+        "itemType": "ITEM_NOISE_TRANSPARENT"
+       }
+      ]
+     },
+     {
+      "itemType": "GROUP_NOISE_CONTROL_MODE_LIST",
+      "subItems": [
+       {
+        "itemType": "ITEM_SMART_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_DEEP_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_MEDIUM_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_LIGHT_REDUCTION"
+       }
+      ]
+     },
+     {
+      "itemType": "ITEM_NOISE_CONTROL_STRENGTHEN_VOICE"
+     },
+     {
+      "itemType": "ITEM_NOISE_CONTROL_WIND_NOISE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_SOUND_EFFECT",
+    "subItems": [
+     {
+      "itemType": "ITEM_SOUND_EFFECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_GOLDEN_HEARING"
+     },
+     {
+      "itemType": "ITEM_3D_SOUND_EFFECT"
+     },
+     {
+      "itemType": "ITEM_SOUND_ENHANCE",
+      "supportRegions": [
+       "3"
+      ]
+     },
+     {
+      "itemType": "ITEM_HI_RES_MODE"
+     },
+     {
+      "itemType": "ITEM_DYNAMIC_SOUND_EFFECT"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_AI",
+    "subItems": [
+     {
+      "itemType": "ITEM_AI_ASSIST",
+      "audioDataManufacturer": "BES"
+     },
+     {
+      "itemType": "ITEM_AI_TRANSLATE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_MODE",
+    "subItems": [
+     {
+      "itemType": "ITEM_GAME_MODE"
+     },
+     {
+      "itemType": "ITEM_WHITE_NOISE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_PERSONALIZATION",
+    "subItems": [
+     {
+      "itemType": "ITEM_KEY_SETTING"
+     },
+     {
+      "itemType": "ITEM_PERSONALIZED_THEME"
+     },
+     {
+      "itemType": "ITEM_TRIBBLE_DEVICE_CONNECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_SMART_PLAY_PAUSE"
+     },
+     {
+      "itemType": "ITEM_AUTO_ANSWER"
+     },
+     {
+      "itemType": "ITEM_TAKE_PHOTO"
+     },
+     {
+      "itemType": "ITEM_COMPACTNESS_DETECT"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_SAFE",
+    "subItems": [
+     {
+      "itemType": "ITEM_SEARCH_HEADSET"
+     },
+     {
+      "itemType": "ITEM_FIND_PHONE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_USE_TIME"
+   },
+   {
+    "itemType": "GROUP_KEY_LEFT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_AI_ASSIST",
+        "VALUE_AI_TRANSLATE_CONVERSATION",
+        "VALUE_AI_TRANSLATE_LIVE",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_AI_ASSIST",
+        "VALUE_AI_TRANSLATE_CONVERSATION",
+        "VALUE_AI_TRANSLATE_LIVE",
+        "VALUE_OFF"
+       ],
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_RIGHT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_AI_ASSIST",
+        "VALUE_AI_TRANSLATE_CONVERSATION",
+        "VALUE_AI_TRANSLATE_LIVE",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_AI_ASSIST",
+        "VALUE_AI_TRANSLATE_CONVERSATION",
+        "VALUE_AI_TRANSLATE_LIVE",
+        "VALUE_OFF"
+       ],
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ]
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "realme Buds Clip": {
+  "androidConfig": {
+   "delaySppConnect": "0",
+   "modelId": "065C12",
+   "sdkVendor": "VENDOR_TL",
+   "sppUUIDType": "TYPE_DEFAULT",
+   "supportMyDevice": "1",
+   "needGetEqAfterSet": "0",
+   "sppCmdInterval": 10
+  },
+  "canUploadLog": 1,
+  "headsetDetectConfig": {
+   "items": [
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "tws_pair"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "isSupportLongPress": "0",
+     "type": "touch"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "horn"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "microphone"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "box_communication"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "antenna"
+    }
+   ],
+   "minSupportVersion": "0.0.0.0",
+   "minUnSupportVersion": "9.9.9.9"
+  },
+  "headsetOtaConfig": {
+   "forceUpdateAfterOtaFail": 0,
+   "otaState": 1,
+   "supportBreakpointResume": 1
+  },
+  "productAttr": {
+   "deviceType": "TYPE_TWS",
+   "noiseControlProtocol": "PROTOCOL_STANDARD",
+   "pullSwitchProtocol": "PROTOCOL_STANDARD",
+   "singleHeadsetBasic": "BATTERY",
+   "registerAllNotifyAtOnce": "PROTOCOL_STANDARD",
+   "operationGuide": 1
+  },
+  "viewItems": [
+   {
+    "itemType": "GROUP_DEVICE_3D"
+   },
+   {
+    "itemType": "GROUP_HEADER_BATTERY"
+   },
+   {
+    "itemType": "GROUP_SOUND_EFFECT",
+    "subItems": [
+     {
+      "itemType": "ITEM_SOUND_EFFECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_3D_SOUND_EFFECT"
+     },
+     {
+      "itemType": "ITEM_DYNAMIC_SOUND_EFFECT"
+     },
+     {
+      "itemType": "ITEM_VIRTUAL_BASS"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_AI",
+    "subItems": [
+     {
+      "itemType": "ITEM_AI_TRANSLATE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_MODE",
+    "subItems": [
+     {
+      "itemType": "ITEM_GAME_MODE"
+     },
+     {
+      "itemType": "ITEM_WHITE_NOISE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_PERSONALIZATION",
+    "subItems": [
+     {
+      "itemType": "ITEM_KEY_SETTING"
+     },
+     {
+      "itemType": "ITEM_PERSONALIZED_THEME"
+     },
+     {
+      "itemType": "ITEM_DOUBLE_DEVICE_CONNECT_CONFIG"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_SAFE",
+    "subItems": [
+     {
+      "itemType": "ITEM_SEARCH_HEADSET"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_USE_TIME"
+   },
+   {
+    "itemType": "GROUP_KEY_LEFT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_AI_TRANSLATE_CONVERSATION",
+        "VALUE_AI_TRANSLATE_LIVE",
+        "VALUE_OFF"
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_RIGHT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_AI_TRANSLATE_CONVERSATION",
+        "VALUE_AI_TRANSLATE_LIVE",
+        "VALUE_OFF"
+       ]
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "realme Buds T200x": {
+  "androidConfig": {
+   "delaySppConnect": "0",
+   "modelId": "065852",
+   "sdkVendor": "VENDOR_TL",
+   "sppUUIDType": "TYPE_DEFAULT",
+   "supportMyDevice": "1"
+  },
+  "canUploadLog": 1,
+  "headsetOtaConfig": {
+   "forceUpdateAfterOtaFail": 0,
+   "otaState": 1,
+   "supportBreakpointResume": 1
+  },
+  "productAttr": {
+   "deviceType": "TYPE_TWS",
+   "noiseControlProtocol": "PROTOCOL_STANDARD",
+   "pullSwitchProtocol": "PROTOCOL_STANDARD",
+   "operationGuide": 1,
+   "registerAllNotifyAtOnce": "PROTOCOL_STANDARD",
+   "singleHeadsetBasic": "BATTERY"
+  },
+  "viewItems": [
+   {
+    "itemType": "GROUP_DEVICE_3D"
+   },
+   {
+    "itemType": "GROUP_HEADER_BATTERY"
+   },
+   {
+    "itemType": "GROUP_NOISE_CONTROL",
+    "subItems": [
+     {
+      "itemType": "GROUP_NOISE_CONTROL_MODE",
+      "subItems": [
+       {
+        "itemType": "ITEM_NOISE_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_NOISE_CLOSE"
+       },
+       {
+        "itemType": "ITEM_NOISE_TRANSPARENT"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_SOUND_EFFECT",
+    "subItems": [
+     {
+      "itemType": "ITEM_SOUND_EFFECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_SOUND_ENHANCE",
+      "supportRegions": [
+       "3"
+      ]
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_OTHER",
+    "subItems": [
+     {
+      "itemType": "ITEM_GAME_MODE"
+     },
+     {
+      "itemType": "ITEM_KEY_SETTING"
+     },
+     {
+      "itemType": "ITEM_PERSONALIZED_THEME"
+     },
+     {
+      "itemType": "ITEM_DOUBLE_DEVICE_CONNECT_CONFIG"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_LEFT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ],
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_RIGHT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ],
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_LEFT_RIGHT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "realme Buds T200": {
+  "androidConfig": {
+   "delaySppConnect": "0",
+   "modelId": "065452",
+   "sdkVendor": "VENDOR_TL",
+   "sppUUIDType": "TYPE_DEFAULT",
+   "supportMyDevice": "1"
+  },
+  "canUploadLog": 1,
+  "headsetDetectConfig": {
+   "items": [
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "tws_pair"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "touch"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "horn"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "microphone"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "noisereduction"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "in_out_of_ears"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "box_communication"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "antenna"
+    }
+   ],
+   "minSupportVersion": "0.0.0.0",
+   "minUnSupportVersion": "9.9.9.9"
+  },
+  "headsetOtaConfig": {
+   "forceUpdateAfterOtaFail": 0,
+   "otaState": 1,
+   "supportBreakpointResume": 1
+  },
+  "productAttr": {
+   "deviceType": "TYPE_TWS",
+   "noiseControlProtocol": "PROTOCOL_STANDARD",
+   "pullSwitchProtocol": "PROTOCOL_STANDARD",
+   "singleHeadsetBasic": "BATTERY",
+   "registerAllNotifyAtOnce": "PROTOCOL_STANDARD",
+   "spatialAudioConflictHighQualitySound": "1",
+   "operationGuide": 1
+  },
+  "viewItems": [
+   {
+    "itemType": "GROUP_DEVICE_3D"
+   },
+   {
+    "itemType": "GROUP_HEADER_BATTERY"
+   },
+   {
+    "itemType": "GROUP_NOISE_CONTROL",
+    "subItems": [
+     {
+      "itemType": "GROUP_NOISE_CONTROL_MODE",
+      "subItems": [
+       {
+        "itemType": "ITEM_NOISE_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_NOISE_CLOSE"
+       },
+       {
+        "itemType": "ITEM_NOISE_TRANSPARENT"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_SOUND_EFFECT",
+    "subItems": [
+     {
+      "itemType": "ITEM_SOUND_EFFECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_3D_SOUND_EFFECT"
+     },
+     {
+      "itemType": "ITEM_SOUND_ENHANCE",
+      "supportRegions": [
+       "3"
+      ]
+     },
+     {
+      "itemType": "ITEM_HIGH_QUALITY_SOUND"
+     },
+     {
+      "itemType": "ITEM_DYNAMIC_SOUND_EFFECT"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_MODE",
+    "subItems": [
+     {
+      "itemType": "ITEM_GAME_MODE"
+     },
+     {
+      "itemType": "ITEM_WHITE_NOISE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_PERSONALIZATION",
+    "subItems": [
+     {
+      "itemType": "ITEM_KEY_SETTING"
+     },
+     {
+      "itemType": "ITEM_PERSONALIZED_THEME"
+     },
+     {
+      "itemType": "ITEM_DOUBLE_DEVICE_CONNECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_TAKE_PHOTO"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_SAFE",
+    "subItems": [
+     {
+      "itemType": "ITEM_SEARCH_HEADSET"
+     },
+     {
+      "itemType": "ITEM_FIND_PHONE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_USE_TIME"
+   },
+   {
+    "itemType": "GROUP_KEY_LEFT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ],
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_RIGHT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ],
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ]
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "realme Buds T200 Lite": {
+  "androidConfig": {
+   "delaySppConnect": "0",
+   "modelId": "065052",
+   "sdkVendor": "VENDOR_TL",
+   "sppUUIDType": "TYPE_DEFAULT",
+   "supportMyDevice": "1"
+  },
+  "canUploadLog": -1,
+  "headsetOtaConfig": {
+   "forceUpdateAfterOtaFail": 0,
+   "otaState": 1,
+   "supportBreakpointResume": 1
+  },
+  "productAttr": {
+   "deviceType": "TYPE_TWS",
+   "noiseControlProtocol": "PROTOCOL_STANDARD",
+   "pullSwitchProtocol": "PROTOCOL_STANDARD",
+   "operationGuide": 1,
+   "registerAllNotifyAtOnce": "PROTOCOL_STANDARD",
+   "singleHeadsetBasic": "BATTERY"
+  },
+  "viewItems": [
+   {
+    "itemType": "GROUP_DEVICE_3D"
+   },
+   {
+    "itemType": "GROUP_HEADER_BATTERY"
+   },
+   {
+    "itemType": "GROUP_SOUND_EFFECT",
+    "subItems": [
+     {
+      "itemType": "ITEM_SOUND_EFFECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_SOUND_ENHANCE",
+      "supportRegions": [
+       "3"
+      ]
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_OTHER",
+    "subItems": [
+     {
+      "itemType": "ITEM_GAME_MODE"
+     },
+     {
+      "itemType": "ITEM_PERSONALIZED_THEME"
+     },
+     {
+      "itemType": "ITEM_KEY_SETTING"
+     },
+     {
+      "itemType": "ITEM_DOUBLE_DEVICE_CONNECT_CONFIG"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_LEFT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_RIGHT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_LEFT_RIGHT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "realme Buds T500 Pro": {
+  "androidConfig": {
+   "delaySppConnect": "0",
+   "modelId": "066452",
+   "sdkVendor": "VENDOR_TL",
+   "sppUUIDType": "TYPE_DEFAULT",
+   "supportMyDevice": "1",
+   "needGetEqAfterSet": "0",
+   "sppCmdInterval": 10
+  },
+  "canUploadLog": 1,
+  "headsetDetectConfig": {
+   "items": [
+    {
+     "type": "tws_pair"
+    },
+    {
+     "type": "touch"
+    },
+    {
+     "type": "horn"
+    },
+    {
+     "type": "microphone"
+    },
+    {
+     "type": "noisereduction"
+    },
+    {
+     "type": "in_out_of_ears"
+    },
+    {
+     "type": "box_communication"
+    },
+    {
+     "type": "antenna"
+    }
+   ]
+  },
+  "headsetOtaConfig": {
+   "forceUpdateAfterOtaFail": 0,
+   "otaState": 1,
+   "supportBreakpointResume": 1
+  },
+  "productAttr": {
+   "deviceType": "TYPE_TWS",
+   "noiseControlProtocol": "PROTOCOL_STANDARD",
+   "pullSwitchProtocol": "PROTOCOL_STANDARD",
+   "singleHeadsetBasic": "BATTERY",
+   "registerAllNotifyAtOnce": "PROTOCOL_STANDARD",
+   "spatialAudioConflictHighQualitySound": "1",
+   "operationGuide": 1
+  },
+  "viewItems": [
+   {
+    "itemType": "GROUP_DEVICE_3D"
+   },
+   {
+    "itemType": "GROUP_HEADER_BATTERY"
+   },
+   {
+    "itemType": "GROUP_NOISE_CONTROL",
+    "subItems": [
+     {
+      "itemType": "GROUP_NOISE_CONTROL_MODE",
+      "subItems": [
+       {
+        "itemType": "ITEM_NOISE_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_NOISE_CLOSE"
+       },
+       {
+        "itemType": "ITEM_NOISE_TRANSPARENT"
+       }
+      ]
+     },
+     {
+      "itemType": "GROUP_NOISE_CONTROL_MODE_LIST",
+      "subItems": [
+       {
+        "itemType": "ITEM_SMART_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_DEEP_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_MEDIUM_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_LIGHT_REDUCTION"
+       }
+      ]
+     },
+     {
+      "itemType": "ITEM_NOISE_CONTROL_STRENGTHEN_VOICE"
+     },
+     {
+      "itemType": "ITEM_NOISE_CONTROL_WIND_NOISE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_SOUND_EFFECT",
+    "subItems": [
+     {
+      "itemType": "ITEM_SOUND_EFFECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_3D_SOUND_EFFECT"
+     },
+     {
+      "itemType": "ITEM_SOUND_ENHANCE",
+      "supportRegions": [
+       "3"
+      ]
+     },
+     {
+      "itemType": "ITEM_HI_RES_MODE"
+     },
+     {
+      "itemType": "ITEM_DYNAMIC_SOUND_EFFECT"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_AI",
+    "subItems": [
+     {
+      "itemType": "ITEM_AI_TRANSLATE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_MODE",
+    "subItems": [
+     {
+      "itemType": "ITEM_GAME_MODE"
+     },
+     {
+      "itemType": "ITEM_WHITE_NOISE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_PERSONALIZATION",
+    "subItems": [
+     {
+      "itemType": "ITEM_KEY_SETTING"
+     },
+     {
+      "itemType": "ITEM_PERSONALIZED_THEME"
+     },
+     {
+      "itemType": "ITEM_TRIBBLE_DEVICE_CONNECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_SMART_PLAY_PAUSE"
+     },
+     {
+      "itemType": "ITEM_AUTO_ANSWER"
+     },
+     {
+      "itemType": "ITEM_TAKE_PHOTO"
+     },
+     {
+      "itemType": "ITEM_COMPACTNESS_DETECT"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_SAFE",
+    "subItems": [
+     {
+      "itemType": "ITEM_SEARCH_HEADSET"
+     },
+     {
+      "itemType": "ITEM_FIND_PHONE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_USE_TIME"
+   },
+   {
+    "itemType": "GROUP_KEY_LEFT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_AI_TRANSLATE_CONVERSATION",
+        "VALUE_AI_TRANSLATE_LIVE",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_AI_TRANSLATE_CONVERSATION",
+        "VALUE_AI_TRANSLATE_LIVE",
+        "VALUE_OFF"
+       ],
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_RIGHT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_AI_TRANSLATE_CONVERSATION",
+        "VALUE_AI_TRANSLATE_LIVE",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_AI_TRANSLATE_CONVERSATION",
+        "VALUE_AI_TRANSLATE_LIVE",
+        "VALUE_OFF"
+       ],
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ]
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "realme Buds T500 Pro HP Ed": {
+  "androidConfig": {
+   "delaySppConnect": "0",
+   "modelId": "067452",
+   "sdkVendor": "VENDOR_TL",
+   "sppUUIDType": "TYPE_DEFAULT",
+   "supportMyDevice": "1",
+   "needGetEqAfterSet": "0",
+   "sppCmdInterval": 10
+  },
+  "canUploadLog": 1,
+  "headsetDetectConfig": {
+   "items": [
+    {
+     "type": "tws_pair"
+    },
+    {
+     "type": "touch"
+    },
+    {
+     "type": "horn"
+    },
+    {
+     "type": "microphone"
+    },
+    {
+     "type": "noisereduction"
+    },
+    {
+     "type": "in_out_of_ears"
+    },
+    {
+     "type": "box_communication"
+    },
+    {
+     "type": "antenna"
+    }
+   ]
+  },
+  "headsetOtaConfig": {
+   "forceUpdateAfterOtaFail": 0,
+   "otaState": 1,
+   "supportBreakpointResume": 1
+  },
+  "productAttr": {
+   "deviceType": "TYPE_TWS",
+   "noiseControlProtocol": "PROTOCOL_STANDARD",
+   "pullSwitchProtocol": "PROTOCOL_STANDARD",
+   "singleHeadsetBasic": "BATTERY",
+   "registerAllNotifyAtOnce": "PROTOCOL_STANDARD",
+   "spatialAudioConflictHighQualitySound": "1",
+   "operationGuide": 1
+  },
+  "viewItems": [
+   {
+    "itemType": "GROUP_DEVICE_3D"
+   },
+   {
+    "itemType": "GROUP_HEADER_BATTERY"
+   },
+   {
+    "itemType": "GROUP_NOISE_CONTROL",
+    "subItems": [
+     {
+      "itemType": "GROUP_NOISE_CONTROL_MODE",
+      "subItems": [
+       {
+        "itemType": "ITEM_NOISE_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_NOISE_CLOSE"
+       },
+       {
+        "itemType": "ITEM_NOISE_TRANSPARENT"
+       }
+      ]
+     },
+     {
+      "itemType": "GROUP_NOISE_CONTROL_MODE_LIST",
+      "subItems": [
+       {
+        "itemType": "ITEM_SMART_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_DEEP_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_MEDIUM_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_LIGHT_REDUCTION"
+       }
+      ]
+     },
+     {
+      "itemType": "ITEM_NOISE_CONTROL_STRENGTHEN_VOICE"
+     },
+     {
+      "itemType": "ITEM_NOISE_CONTROL_WIND_NOISE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_SOUND_EFFECT",
+    "subItems": [
+     {
+      "itemType": "ITEM_SOUND_EFFECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_3D_SOUND_EFFECT"
+     },
+     {
+      "itemType": "ITEM_SOUND_ENHANCE",
+      "supportRegions": [
+       "3"
+      ]
+     },
+     {
+      "itemType": "ITEM_HI_RES_MODE"
+     },
+     {
+      "itemType": "ITEM_DYNAMIC_SOUND_EFFECT"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_AI",
+    "subItems": [
+     {
+      "itemType": "ITEM_AI_TRANSLATE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_MODE",
+    "subItems": [
+     {
+      "itemType": "ITEM_GAME_MODE"
+     },
+     {
+      "itemType": "ITEM_WHITE_NOISE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_PERSONALIZATION",
+    "subItems": [
+     {
+      "itemType": "ITEM_KEY_SETTING"
+     },
+     {
+      "itemType": "ITEM_PERSONALIZED_THEME"
+     },
+     {
+      "itemType": "ITEM_TRIBBLE_DEVICE_CONNECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_SMART_PLAY_PAUSE"
+     },
+     {
+      "itemType": "ITEM_AUTO_ANSWER"
+     },
+     {
+      "itemType": "ITEM_TAKE_PHOTO"
+     },
+     {
+      "itemType": "ITEM_COMPACTNESS_DETECT"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_SAFE",
+    "subItems": [
+     {
+      "itemType": "ITEM_SEARCH_HEADSET"
+     },
+     {
+      "itemType": "ITEM_FIND_PHONE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_USE_TIME"
+   },
+   {
+    "itemType": "GROUP_KEY_LEFT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_AI_TRANSLATE_CONVERSATION",
+        "VALUE_AI_TRANSLATE_LIVE",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_AI_TRANSLATE_CONVERSATION",
+        "VALUE_AI_TRANSLATE_LIVE",
+        "VALUE_OFF"
+       ],
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_RIGHT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_AI_TRANSLATE_CONVERSATION",
+        "VALUE_AI_TRANSLATE_LIVE",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_AI_TRANSLATE_CONVERSATION",
+        "VALUE_AI_TRANSLATE_LIVE",
+        "VALUE_OFF"
+       ],
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ]
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "realme Buds T110": {
+  "androidConfig": {
+   "delaySppConnect": "1",
+   "modelId": "062812",
+   "sdkVendor": "VENDOR_TL",
+   "sppUUIDType": "TYPE_SELF_PROTOCOL",
+   "supportMyDevice": "1"
+  },
+  "canUploadLog": -1,
+  "headsetOtaConfig": {
+   "forceUpdateAfterOtaFail": 0,
+   "otaState": 1,
+   "supportBreakpointResume": 1
+  },
+  "productAttr": {
+   "deviceType": "TYPE_TWS",
+   "noiseControlProtocol": "PROTOCOL_STANDARD",
+   "pullSwitchProtocol": "PROTOCOL_STANDARD",
+   "singleHeadsetBasic": "BATTERY",
+   "operationGuide": 1
+  },
+  "viewItems": [
+   {
+    "itemType": "GROUP_DEVICE_3D"
+   },
+   {
+    "itemType": "GROUP_HEADER_BATTERY"
+   },
+   {
+    "itemType": "GROUP_SOUND_EFFECT",
+    "subItems": [
+     {
+      "itemType": "GROUP_SOUND_EFFECT_MODE",
+      "subItems": [
+       {
+        "itemType": "ITEM_LOW_SOUND_ENHANCE"
+       },
+       {
+        "itemType": "ITEM_DYNAMIC"
+       },
+       {
+        "itemType": "ITEM_BRIGHTNESS"
+       }
+      ]
+     },
+     {
+      "itemType": "ITEM_SOUND_ENHANCE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_OTHER",
+    "subItems": [
+     {
+      "itemType": "ITEM_GAME_MODE"
+     },
+     {
+      "itemType": "ITEM_PERSONALIZED_THEME"
+     },
+     {
+      "itemType": "ITEM_KEY_SETTING"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_LEFT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_RIGHT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_LEFT_RIGHT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "realme Buds T02": {
+  "androidConfig": {
+   "delaySppConnect": "0",
+   "modelId": "065052",
+   "sdkVendor": "VENDOR_TL",
+   "sppUUIDType": "TYPE_DEFAULT",
+   "supportMyDevice": "1"
+  },
+  "canUploadLog": -1,
+  "headsetOtaConfig": {
+   "forceUpdateAfterOtaFail": 0,
+   "otaState": 1,
+   "supportBreakpointResume": 1
+  },
+  "productAttr": {
+   "deviceType": "TYPE_TWS",
+   "noiseControlProtocol": "PROTOCOL_STANDARD",
+   "pullSwitchProtocol": "PROTOCOL_STANDARD",
+   "operationGuide": 1,
+   "registerAllNotifyAtOnce": "PROTOCOL_STANDARD",
+   "singleHeadsetBasic": "BATTERY"
+  },
+  "viewItems": [
+   {
+    "itemType": "GROUP_DEVICE_3D"
+   },
+   {
+    "itemType": "GROUP_HEADER_BATTERY"
+   },
+   {
+    "itemType": "GROUP_SOUND_EFFECT",
+    "subItems": [
+     {
+      "itemType": "ITEM_SOUND_EFFECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_SOUND_ENHANCE",
+      "supportRegions": [
+       "3"
+      ]
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_OTHER",
+    "subItems": [
+     {
+      "itemType": "ITEM_GAME_MODE"
+     },
+     {
+      "itemType": "ITEM_KEY_SETTING"
+     },
+     {
+      "itemType": "ITEM_DOUBLE_DEVICE_CONNECT_CONFIG"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_LEFT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_RIGHT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_LEFT_RIGHT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "realme Buds T01": {
+  "androidConfig": {
+   "delaySppConnect": "1",
+   "modelId": "064412",
+   "sdkVendor": "VENDOR_TL",
+   "sppUUIDType": "TYPE_SELF_PROTOCOL",
+   "supportMyDevice": "1"
+  },
+  "canUploadLog": -1,
+  "headsetOtaConfig": {
+   "forceUpdateAfterOtaFail": 0,
+   "otaState": 1,
+   "supportBreakpointResume": 1
+  },
+  "productAttr": {
+   "deviceType": "TYPE_TWS",
+   "noiseControlProtocol": "PROTOCOL_STANDARD",
+   "pullSwitchProtocol": "PROTOCOL_STANDARD",
+   "singleHeadsetBasic": "BATTERY",
+   "operationGuide": 1
+  },
+  "viewItems": [
+   {
+    "itemType": "GROUP_DEVICE_3D"
+   },
+   {
+    "itemType": "GROUP_HEADER_BATTERY"
+   },
+   {
+    "itemType": "GROUP_SOUND_EFFECT",
+    "subItems": [
+     {
+      "itemType": "GROUP_SOUND_EFFECT_MODE",
+      "subItems": [
+       {
+        "itemType": "ITEM_LOW_SOUND_ENHANCE"
+       },
+       {
+        "itemType": "ITEM_DYNAMIC"
+       },
+       {
+        "itemType": "ITEM_BRIGHTNESS"
+       }
+      ]
+     },
+     {
+      "itemType": "ITEM_SOUND_ENHANCE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_OTHER",
+    "subItems": [
+     {
+      "itemType": "ITEM_GAME_MODE"
+     },
+     {
+      "itemType": "ITEM_PERSONALIZED_THEME"
+     },
+     {
+      "itemType": "ITEM_KEY_SETTING"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_LEFT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_RIGHT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_LEFT_RIGHT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "realme Buds T300": {
+  "androidConfig": {
+   "delaySppConnect": "0",
+   "modelId": "062412",
+   "sdkVendor": "VENDOR_TL",
+   "sppUUIDType": "TYPE_DEFAULT",
+   "supportMyDevice": "1"
+  },
+  "canUploadLog": -1,
+  "headsetOtaConfig": {
+   "forceUpdateAfterOtaFail": 0,
+   "otaState": 1,
+   "supportBreakpointResume": 1
+  },
+  "productAttr": {
+   "deviceType": "TYPE_TWS",
+   "noiseControlProtocol": "PROTOCOL_STANDARD",
+   "pullSwitchProtocol": "PROTOCOL_STANDARD",
+   "singleHeadsetBasic": "BATTERY",
+   "operationGuide": 1
+  },
+  "viewItems": [
+   {
+    "itemType": "GROUP_DEVICE_3D"
+   },
+   {
+    "itemType": "GROUP_HEADER_BATTERY"
+   },
+   {
+    "itemType": "GROUP_NOISE_CONTROL",
+    "subItems": [
+     {
+      "itemType": "GROUP_NOISE_CONTROL_MODE",
+      "subItems": [
+       {
+        "itemType": "ITEM_NOISE_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_NOISE_CLOSE"
+       },
+       {
+        "itemType": "ITEM_NOISE_TRANSPARENT"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_SOUND_EFFECT",
+    "subItems": [
+     {
+      "itemType": "ITEM_SOUND_EFFECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_3D_SOUND_EFFECT"
+     },
+     {
+      "itemType": "ITEM_SOUND_ENHANCE",
+      "supportRegions": [
+       "3"
+      ]
+     },
+     {
+      "itemType": "ITEM_DOLBY_ATMOS"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_OTHER",
+    "subItems": [
+     {
+      "itemType": "ITEM_GAME_MODE"
+     },
+     {
+      "itemType": "ITEM_TAKE_PHOTO"
+     },
+     {
+      "itemType": "ITEM_SEARCH_HEADSET"
+     },
+     {
+      "itemType": "ITEM_FIND_PHONE"
+     },
+     {
+      "itemType": "ITEM_KEY_SETTING"
+     },
+     {
+      "itemType": "ITEM_PERSONALIZED_THEME"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_LEFT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_CHANGE_DEVICE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ],
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_RIGHT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_CHANGE_DEVICE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ],
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ]
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "realme Buds T300 Pro": {
+  "androidConfig": {
+   "delaySppConnect": "0",
+   "modelId": "066452",
+   "sdkVendor": "VENDOR_TL",
+   "sppUUIDType": "TYPE_DEFAULT",
+   "supportMyDevice": "1",
+   "needGetEqAfterSet": "0",
+   "sppCmdInterval": 10
+  },
+  "canUploadLog": 1,
+  "headsetDetectConfig": {
+   "items": [
+    {
+     "type": "tws_pair"
+    },
+    {
+     "type": "touch"
+    },
+    {
+     "type": "horn"
+    },
+    {
+     "type": "microphone"
+    },
+    {
+     "type": "noisereduction"
+    },
+    {
+     "type": "in_out_of_ears"
+    },
+    {
+     "type": "box_communication"
+    },
+    {
+     "type": "antenna"
+    }
+   ]
+  },
+  "headsetOtaConfig": {
+   "forceUpdateAfterOtaFail": 0,
+   "otaState": 1,
+   "supportBreakpointResume": 1
+  },
+  "productAttr": {
+   "deviceType": "TYPE_TWS",
+   "noiseControlProtocol": "PROTOCOL_STANDARD",
+   "pullSwitchProtocol": "PROTOCOL_STANDARD",
+   "singleHeadsetBasic": "BATTERY",
+   "registerAllNotifyAtOnce": "PROTOCOL_STANDARD",
+   "spatialAudioConflictHighQualitySound": "1",
+   "operationGuide": 1
+  },
+  "viewItems": [
+   {
+    "itemType": "GROUP_DEVICE_3D"
+   },
+   {
+    "itemType": "GROUP_HEADER_BATTERY"
+   },
+   {
+    "itemType": "GROUP_NOISE_CONTROL",
+    "subItems": [
+     {
+      "itemType": "GROUP_NOISE_CONTROL_MODE",
+      "subItems": [
+       {
+        "itemType": "ITEM_NOISE_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_NOISE_CLOSE"
+       },
+       {
+        "itemType": "ITEM_NOISE_TRANSPARENT"
+       }
+      ]
+     },
+     {
+      "itemType": "GROUP_NOISE_CONTROL_MODE_LIST",
+      "subItems": [
+       {
+        "itemType": "ITEM_SMART_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_DEEP_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_MEDIUM_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_LIGHT_REDUCTION"
+       }
+      ]
+     },
+     {
+      "itemType": "ITEM_NOISE_CONTROL_STRENGTHEN_VOICE"
+     },
+     {
+      "itemType": "ITEM_NOISE_CONTROL_WIND_NOISE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_SOUND_EFFECT",
+    "subItems": [
+     {
+      "itemType": "ITEM_SOUND_EFFECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_3D_SOUND_EFFECT"
+     },
+     {
+      "itemType": "ITEM_SOUND_ENHANCE",
+      "supportRegions": [
+       "3"
+      ]
+     },
+     {
+      "itemType": "ITEM_HI_RES_MODE"
+     },
+     {
+      "itemType": "ITEM_DYNAMIC_SOUND_EFFECT"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_AI",
+    "subItems": [
+     {
+      "itemType": "ITEM_AI_TRANSLATE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_MODE",
+    "subItems": [
+     {
+      "itemType": "ITEM_GAME_MODE"
+     },
+     {
+      "itemType": "ITEM_WHITE_NOISE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_PERSONALIZATION",
+    "subItems": [
+     {
+      "itemType": "ITEM_KEY_SETTING"
+     },
+     {
+      "itemType": "ITEM_PERSONALIZED_THEME"
+     },
+     {
+      "itemType": "ITEM_TRIBBLE_DEVICE_CONNECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_SMART_PLAY_PAUSE"
+     },
+     {
+      "itemType": "ITEM_AUTO_ANSWER"
+     },
+     {
+      "itemType": "ITEM_TAKE_PHOTO"
+     },
+     {
+      "itemType": "ITEM_COMPACTNESS_DETECT"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_SAFE",
+    "subItems": [
+     {
+      "itemType": "ITEM_SEARCH_HEADSET"
+     },
+     {
+      "itemType": "ITEM_FIND_PHONE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_USE_TIME"
+   },
+   {
+    "itemType": "GROUP_KEY_LEFT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_AI_TRANSLATE_CONVERSATION",
+        "VALUE_AI_TRANSLATE_LIVE",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_AI_TRANSLATE_CONVERSATION",
+        "VALUE_AI_TRANSLATE_LIVE",
+        "VALUE_OFF"
+       ],
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_RIGHT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_AI_TRANSLATE_CONVERSATION",
+        "VALUE_AI_TRANSLATE_LIVE",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_AI_TRANSLATE_CONVERSATION",
+        "VALUE_AI_TRANSLATE_LIVE",
+        "VALUE_OFF"
+       ],
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ]
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "realme Buds T310": {
+  "androidConfig": {
+   "delaySppConnect": "0",
+   "modelId": "063C12",
+   "sdkVendor": "VENDOR_TL",
+   "sppUUIDType": "TYPE_DEFAULT",
+   "supportMyDevice": "1"
+  },
+  "canUploadLog": -1,
+  "headsetDetectConfig": {
+   "items": [
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "tws_pair"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "touch"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "horn"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "microphone"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "noisereduction"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "in_out_of_ears"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "box_communication"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "antenna"
+    }
+   ],
+   "minSupportVersion": "0.0.0.0",
+   "minUnSupportVersion": "9.9.9.9"
+  },
+  "headsetOtaConfig": {
+   "forceUpdateAfterOtaFail": 0,
+   "otaState": 1,
+   "supportBreakpointResume": 1
+  },
+  "productAttr": {
+   "deviceType": "TYPE_TWS",
+   "noiseControlProtocol": "PROTOCOL_STANDARD",
+   "pullSwitchProtocol": "PROTOCOL_STANDARD",
+   "registerAllNotifyAtOnce": "PROTOCOL_STANDARD",
+   "operationGuide": 1,
+   "singleHeadsetBasic": "BATTERY"
+  },
+  "statusDisplayConfig": {
+   "minSupportVersion": "0.0.0.0",
+   "minUnSupportVersion": "9.9.9.9",
+   "supportStatus": [
+    {
+     "feature": 5
+    },
+    {
+     "feature": 6
+    },
+    {
+     "feature": 8
+    },
+    {
+     "feature": 9
+    },
+    {
+     "feature": 10
+    }
+   ]
+  },
+  "viewItems": [
+   {
+    "itemType": "GROUP_DEVICE_3D"
+   },
+   {
+    "itemType": "GROUP_HEADER_BATTERY"
+   },
+   {
+    "itemType": "GROUP_NOISE_CONTROL",
+    "subItems": [
+     {
+      "itemType": "GROUP_NOISE_CONTROL_MODE",
+      "subItems": [
+       {
+        "itemType": "ITEM_NOISE_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_NOISE_CLOSE"
+       },
+       {
+        "itemType": "ITEM_NOISE_TRANSPARENT"
+       }
+      ]
+     },
+     {
+      "itemType": "GROUP_NOISE_CONTROL_MODE_LIST",
+      "subItems": [
+       {
+        "itemType": "ITEM_DEEP_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_MEDIUM_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_LIGHT_REDUCTION"
+       }
+      ]
+     },
+     {
+      "itemType": "ITEM_NOISE_CONTROL_STRENGTHEN_VOICE"
+     },
+     {
+      "itemType": "ITEM_NOISE_CONTROL_WIND_NOISE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_SOUND_EFFECT",
+    "subItems": [
+     {
+      "itemType": "ITEM_DYNAMIC_SOUND_EFFECT"
+     },
+     {
+      "itemType": "ITEM_SOUND_EFFECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_3D_SOUND_EFFECT"
+     },
+     {
+      "itemType": "ITEM_SOUND_ENHANCE",
+      "supportRegions": [
+       "3"
+      ]
+     },
+     {
+      "itemType": "ITEM_DOLBY_ATMOS"
+     },
+     {
+      "itemType": "ITEM_OREALITY_AUDIO"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_OTHER",
+    "subItems": [
+     {
+      "itemType": "ITEM_DOUBLE_DEVICE_CONNECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_GAME_MODE"
+     },
+     {
+      "itemType": "ITEM_COMPACTNESS_DETECT"
+     },
+     {
+      "itemType": "ITEM_WHITE_NOISE"
+     },
+     {
+      "itemType": "ITEM_KEY_SETTING"
+     },
+     {
+      "itemType": "ITEM_MORE",
+      "subItems": [
+       {
+        "itemType": "ITEM_TAKE_PHOTO"
+       },
+       {
+        "itemType": "ITEM_SEARCH_HEADSET"
+       },
+       {
+        "itemType": "ITEM_FIND_PHONE"
+       },
+       {
+        "itemType": "ITEM_PERSONALIZED_THEME"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_LEFT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ],
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_RIGHT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ],
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ]
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "realme Buds Wireless 3 Neo": {
+  "androidConfig": {
+   "delaySppConnect": "0",
+   "modelId": "050C12",
+   "sdkVendor": "VENDOR_TL",
+   "sppUUIDType": "TYPE_DEFAULT",
+   "supportMyDevice": "1"
+  },
+  "canUploadLog": -1,
+  "headsetDetectConfig": {
+   "items": [
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "horn"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "microphone"
+    },
+    {
+     "minUnSupportVersion": "9.9.9.9",
+     "minSupportVersion": "0.0.0.0",
+     "type": "antenna"
+    }
+   ],
+   "minSupportVersion": "0.0.0.0",
+   "minUnSupportVersion": "9.9.9.9"
+  },
+  "headsetOtaConfig": {
+   "forceUpdateAfterOtaFail": 0,
+   "otaState": 1,
+   "supportBreakpointResume": 1
+  },
+  "productAttr": {
+   "deviceType": "TYPE_NECK",
+   "noiseControlProtocol": "PROTOCOL_STANDARD",
+   "pullSwitchProtocol": "PROTOCOL_STANDARD",
+   "operationGuide": 1
+  },
+  "viewItems": [
+   {
+    "itemType": "GROUP_DEVICE_NECK_LARGE_ICON"
+   },
+   {
+    "itemType": "GROUP_SOUND_EFFECT",
+    "subItems": [
+     {
+      "itemType": "ITEM_SOUND_EFFECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_DYNAMIC_LOW_SOUND"
+     },
+     {
+      "itemType": "ITEM_SOUND_ENHANCE",
+      "supportRegions": [
+       "3"
+      ]
+     },
+     {
+      "itemType": "ITEM_DOLBY_ATMOS"
+     },
+     {
+      "itemType": "ITEM_OREALITY_AUDIO"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_OTHER",
+    "subItems": [
+     {
+      "itemType": "ITEM_DOUBLE_DEVICE_CONNECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_GAME_MODE"
+     },
+     {
+      "itemType": "ITEM_FIND_PHONE"
+     },
+     {
+      "itemType": "ITEM_AUTO_ANSWER"
+     },
+     {
+      "itemType": "ITEM_KEY_SETTING"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_FK_KEY",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_SINGLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_SINGLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "realme Buds Wireless 3": {
+  "androidConfig": {
+   "delaySppConnect": "0",
+   "modelId": "050812",
+   "sdkVendor": "VENDOR_TL",
+   "sppUUIDType": "TYPE_DEFAULT"
+  },
+  "canUploadLog": -1,
+  "headsetDetectConfig": {
+   "items": [
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "horn"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "microphone"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "noisereduction"
+    },
+    {
+     "minUnSupportVersion": "9.9.9.9",
+     "minSupportVersion": "0.0.0.0",
+     "type": "antenna"
+    }
+   ],
+   "minSupportVersion": "0.0.0.0",
+   "minUnSupportVersion": "9.9.9.9"
+  },
+  "headsetOtaConfig": {
+   "forceUpdateAfterOtaFail": 0,
+   "otaState": 1,
+   "supportBreakpointResume": 1
+  },
+  "productAttr": {
+   "deviceType": "TYPE_NECK",
+   "noiseControlProtocol": "PROTOCOL_STANDARD",
+   "pullSwitchProtocol": "PROTOCOL_STANDARD"
+  },
+  "statusDisplayConfig": {
+   "minSupportVersion": "0.0.0.0",
+   "minUnSupportVersion": "9.9.9.9",
+   "supportStatus": [
+    {
+     "feature": 5,
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9"
+    },
+    {
+     "feature": 8
+    }
+   ]
+  },
+  "viewItems": [
+   {
+    "itemType": "GROUP_DEVICE_NECK_LARGE_ICON"
+   },
+   {
+    "itemType": "GROUP_NOISE_CONTROL",
+    "subItems": [
+     {
+      "itemType": "GROUP_NOISE_CONTROL_MODE",
+      "subItems": [
+       {
+        "itemType": "ITEM_NOISE_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_NOISE_CLOSE"
+       },
+       {
+        "itemType": "ITEM_NOISE_TRANSPARENT"
+       }
+      ]
+     },
+     {
+      "itemType": "ITEM_NOISE_CONTROL_WIND_NOISE",
+      "minSupportVersion": "1.1.0.100"
+     },
+     {
+      "itemType": "GROUP_NOISE_CONTROL_CYCLE",
+      "subItems": [
+       {
+        "itemType": "ITEM_NOISE_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_NOISE_CLOSE"
+       },
+       {
+        "itemType": "ITEM_NOISE_TRANSPARENT"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_SOUND_EFFECT",
+    "subItems": [
+     {
+      "itemType": "ITEM_SOUND_EFFECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_3D_SOUND_EFFECT"
+     },
+     {
+      "itemType": "ITEM_DYNAMIC_LOW_SOUND"
+     },
+     {
+      "itemType": "ITEM_SOUND_ENHANCE",
+      "supportRegions": [
+       "3"
+      ]
+     },
+     {
+      "itemType": "ITEM_DOLBY_ATMOS"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_OTHER",
+    "subItems": [
+     {
+      "itemType": "ITEM_DOUBLE_DEVICE_CONNECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_GAME_MODE"
+     },
+     {
+      "itemType": "ITEM_TAKE_PHOTO"
+     },
+     {
+      "itemType": "ITEM_FIND_PHONE"
+     },
+     {
+      "itemType": "ITEM_GESTURE_OPERATION"
+     }
+    ]
+   }
+  ]
+ },
+ "realme Buds Wireless 5 ANC": {
+  "androidConfig": {
+   "delaySppConnect": "0",
+   "modelId": "051412",
+   "sdkVendor": "VENDOR_TL",
+   "sppUUIDType": "TYPE_DEFAULT",
+   "supportMyDevice": "1"
+  },
+  "canUploadLog": -1,
+  "headsetDetectConfig": {
+   "items": [
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "horn"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "microphone"
+    },
+    {
+     "minUnSupportVersion": "9.9.9.9",
+     "minSupportVersion": "0.0.0.0",
+     "type": "antenna"
+    }
+   ],
+   "minSupportVersion": "0.0.0.0",
+   "minUnSupportVersion": "9.9.9.9"
+  },
+  "headsetOtaConfig": {
+   "forceUpdateAfterOtaFail": 0,
+   "otaState": 1,
+   "supportBreakpointResume": 1
+  },
+  "productAttr": {
+   "deviceType": "TYPE_NECK",
+   "noiseControlProtocol": "PROTOCOL_STANDARD",
+   "pullSwitchProtocol": "PROTOCOL_STANDARD",
+   "registerAllNotifyAtOnce": "PROTOCOL_STANDARD",
+   "operationGuide": 1
+  },
+  "viewItems": [
+   {
+    "itemType": "GROUP_DEVICE_NECK_LARGE_ICON"
+   },
+   {
+    "itemType": "GROUP_NOISE_CONTROL",
+    "subItems": [
+     {
+      "itemType": "GROUP_NOISE_CONTROL_MODE",
+      "subItems": [
+       {
+        "itemType": "ITEM_NOISE_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_NOISE_CLOSE"
+       },
+       {
+        "itemType": "ITEM_NOISE_TRANSPARENT"
+       }
+      ]
+     },
+     {
+      "itemType": "GROUP_NOISE_CONTROL_MODE_LIST",
+      "subItems": [
+       {
+        "itemType": "ITEM_SMART_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_DEEP_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_MEDIUM_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_LIGHT_REDUCTION"
+       }
+      ]
+     },
+     {
+      "itemType": "ITEM_NOISE_CONTROL_STRENGTHEN_VOICE"
+     },
+     {
+      "itemType": "ITEM_NOISE_CONTROL_WIND_NOISE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_SOUND_EFFECT",
+    "subItems": [
+     {
+      "itemType": "ITEM_SOUND_EFFECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_3D_SOUND_EFFECT"
+     },
+     {
+      "itemType": "ITEM_DYNAMIC_SOUND_EFFECT"
+     },
+     {
+      "itemType": "ITEM_SOUND_ENHANCE",
+      "supportRegions": [
+       "3"
+      ]
+     },
+     {
+      "itemType": "ITEM_DOLBY_ATMOS"
+     },
+     {
+      "itemType": "ITEM_OREALITY_AUDIO"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_OTHER",
+    "subItems": [
+     {
+      "itemType": "ITEM_GAME_MODE"
+     },
+     {
+      "itemType": "ITEM_COMPACTNESS_DETECT"
+     },
+     {
+      "itemType": "ITEM_DOUBLE_DEVICE_CONNECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_FIND_PHONE"
+     },
+     {
+      "itemType": "ITEM_KEY_SETTING"
+     },
+     {
+      "itemType": "ITEM_AUTO_ANSWER"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_FK_KEY",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_SINGLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_SINGLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_NOISE",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_SINGLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_SINGLE_CLICK",
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION"
+       ],
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ]
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "realme Buds Wireless 6 Neo": {
+  "androidConfig": {
+   "delaySppConnect": "0",
+   "modelId": "051812",
+   "sdkVendor": "VENDOR_TL",
+   "sppUUIDType": "TYPE_DEFAULT",
+   "supportMyDevice": "1",
+   "needGetEqAfterSet": "0",
+   "sppCmdInterval": 10
+  },
+  "canUploadLog": 1,
+  "headsetDetectConfig": {
+   "items": [
+    {
+     "type": "horn"
+    },
+    {
+     "type": "microphone"
+    },
+    {
+     "type": "antenna"
+    }
+   ]
+  },
+  "headsetOtaConfig": {
+   "forceUpdateAfterOtaFail": 0,
+   "otaState": 1,
+   "supportBreakpointResume": 1
+  },
+  "productAttr": {
+   "deviceType": "TYPE_NECK",
+   "noiseControlProtocol": "PROTOCOL_STANDARD",
+   "pullSwitchProtocol": "PROTOCOL_STANDARD",
+   "registerAllNotifyAtOnce": "PROTOCOL_STANDARD",
+   "operationGuide": 1
+  },
+  "viewItems": [
+   {
+    "itemType": "GROUP_DEVICE_NECK_LARGE_ICON"
+   },
+   {
+    "itemType": "GROUP_SOUND_EFFECT",
+    "subItems": [
+     {
+      "itemType": "ITEM_SOUND_EFFECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_3D_SOUND_EFFECT"
+     },
+     {
+      "itemType": "ITEM_DYNAMIC_SOUND_EFFECT"
+     },
+     {
+      "itemType": "ITEM_SOUND_ENHANCE",
+      "supportRegions": [
+       "3"
+      ]
+     },
+     {
+      "itemType": "ITEM_DOLBY_ATMOS"
+     },
+     {
+      "itemType": "ITEM_OREALITY_AUDIO"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_MODE",
+    "subItems": [
+     {
+      "itemType": "ITEM_GAME_MODE"
+     },
+     {
+      "itemType": "ITEM_WHITE_NOISE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_PERSONALIZATION",
+    "subItems": [
+     {
+      "itemType": "ITEM_KEY_SETTING"
+     },
+     {
+      "itemType": "ITEM_DOUBLE_DEVICE_CONNECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_AUTO_ANSWER"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_SAFE",
+    "subItems": [
+     {
+      "itemType": "ITEM_SEARCH_HEADSET"
+     },
+     {
+      "itemType": "ITEM_FIND_PHONE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_USE_TIME"
+   },
+   {
+    "itemType": "GROUP_FK_KEY",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_SINGLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_SINGLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "realme Buds N1": {
+  "androidConfig": {
+   "delaySppConnect": "0",
+   "modelId": "064012",
+   "sdkVendor": "VENDOR_TL",
+   "sppUUIDType": "TYPE_DEFAULT",
+   "supportMyDevice": "1"
+  },
+  "canUploadLog": -1,
+  "headsetDetectConfig": {
+   "items": [
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "tws_pair"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "touch"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "horn"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "microphone"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "noisereduction"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "in_out_of_ears"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "box_communication"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "antenna"
+    }
+   ],
+   "minSupportVersion": "0.0.0.0",
+   "minUnSupportVersion": "9.9.9.9"
+  },
+  "headsetOtaConfig": {
+   "forceUpdateAfterOtaFail": 0,
+   "otaState": 1,
+   "supportBreakpointResume": 1
+  },
+  "productAttr": {
+   "deviceType": "TYPE_TWS",
+   "noiseControlProtocol": "PROTOCOL_STANDARD",
+   "pullSwitchProtocol": "PROTOCOL_STANDARD",
+   "registerAllNotifyAtOnce": "PROTOCOL_STANDARD",
+   "operationGuide": 1,
+   "singleHeadsetBasic": "BATTERY"
+  },
+  "statusDisplayConfig": {
+   "minSupportVersion": "0.0.0.0",
+   "minUnSupportVersion": "9.9.9.9",
+   "supportStatus": [
+    {
+     "feature": 5
+    },
+    {
+     "feature": 6
+    },
+    {
+     "feature": 8
+    },
+    {
+     "feature": 9
+    },
+    {
+     "feature": 10
+    }
+   ]
+  },
+  "viewItems": [
+   {
+    "itemType": "GROUP_DEVICE_3D"
+   },
+   {
+    "itemType": "GROUP_HEADER_BATTERY"
+   },
+   {
+    "itemType": "GROUP_NOISE_CONTROL",
+    "subItems": [
+     {
+      "itemType": "GROUP_NOISE_CONTROL_MODE",
+      "subItems": [
+       {
+        "itemType": "ITEM_NOISE_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_NOISE_CLOSE"
+       },
+       {
+        "itemType": "ITEM_NOISE_TRANSPARENT"
+       }
+      ]
+     },
+     {
+      "itemType": "GROUP_NOISE_CONTROL_MODE_LIST",
+      "subItems": [
+       {
+        "itemType": "ITEM_DEEP_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_MEDIUM_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_LIGHT_REDUCTION"
+       }
+      ]
+     },
+     {
+      "itemType": "ITEM_NOISE_CONTROL_STRENGTHEN_VOICE"
+     },
+     {
+      "itemType": "ITEM_NOISE_CONTROL_WIND_NOISE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_SOUND_EFFECT",
+    "subItems": [
+     {
+      "itemType": "ITEM_DYNAMIC_SOUND_EFFECT"
+     },
+     {
+      "itemType": "ITEM_SOUND_EFFECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_3D_SOUND_EFFECT"
+     },
+     {
+      "itemType": "ITEM_SOUND_ENHANCE",
+      "supportRegions": [
+       "3"
+      ]
+     },
+     {
+      "itemType": "ITEM_DOLBY_ATMOS"
+     },
+     {
+      "itemType": "ITEM_OREALITY_AUDIO"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_OTHER",
+    "subItems": [
+     {
+      "itemType": "ITEM_DOUBLE_DEVICE_CONNECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_GAME_MODE"
+     },
+     {
+      "itemType": "ITEM_COMPACTNESS_DETECT"
+     },
+     {
+      "itemType": "ITEM_WHITE_NOISE"
+     },
+     {
+      "itemType": "ITEM_KEY_SETTING"
+     },
+     {
+      "itemType": "ITEM_MORE",
+      "subItems": [
+       {
+        "itemType": "ITEM_TAKE_PHOTO"
+       },
+       {
+        "itemType": "ITEM_SEARCH_HEADSET"
+       },
+       {
+        "itemType": "ITEM_FIND_PHONE"
+       },
+       {
+        "itemType": "ITEM_PERSONALIZED_THEME"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_LEFT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ],
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_RIGHT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ],
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ]
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "realme Buds N1 Pro": {
+  "androidConfig": {
+   "delaySppConnect": "0",
+   "modelId": "063812",
+   "sdkVendor": "VENDOR_TL",
+   "sppUUIDType": "TYPE_DEFAULT",
+   "supportMyDevice": "1"
+  },
+  "canUploadLog": -1,
+  "headsetOtaConfig": {
+   "forceUpdateAfterOtaFail": 0,
+   "otaState": 1,
+   "supportBreakpointResume": 1
+  },
+  "productAttr": {
+   "deviceType": "TYPE_TWS",
+   "noiseControlProtocol": "PROTOCOL_STANDARD",
+   "pullSwitchProtocol": "PROTOCOL_STANDARD",
+   "operationGuide": 1,
+   "singleHeadsetBasic": "BATTERY"
+  },
+  "viewItems": [
+   {
+    "itemType": "GROUP_DEVICE_3D"
+   },
+   {
+    "itemType": "GROUP_HEADER_BATTERY"
+   },
+   {
+    "itemType": "GROUP_NOISE_CONTROL",
+    "subItems": [
+     {
+      "itemType": "GROUP_NOISE_CONTROL_MODE",
+      "subItems": [
+       {
+        "itemType": "ITEM_NOISE_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_NOISE_CLOSE"
+       },
+       {
+        "itemType": "ITEM_NOISE_TRANSPARENT"
+       }
+      ]
+     },
+     {
+      "itemType": "GROUP_NOISE_CONTROL_MODE_LIST",
+      "subItems": [
+       {
+        "itemType": "ITEM_SMART_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_DEEP_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_MEDIUM_REDUCTION"
+       },
+       {
+        "itemType": "ITEM_LIGHT_REDUCTION"
+       }
+      ]
+     },
+     {
+      "itemType": "ITEM_NOISE_CONTROL_STRENGTHEN_VOICE"
+     },
+     {
+      "itemType": "ITEM_NOISE_CONTROL_WIND_NOISE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_SOUND_EFFECT",
+    "subItems": [
+     {
+      "itemType": "ITEM_SOUND_EFFECT_CONFIG"
+     },
+     {
+      "itemType": "ITEM_HI_RES_MODE"
+     },
+     {
+      "itemType": "ITEM_DYNAMIC_LOW_SOUND"
+     },
+     {
+      "itemType": "ITEM_SOUND_ENHANCE",
+      "supportRegions": [
+       "3"
+      ]
+     },
+     {
+      "itemType": "ITEM_DOLBY_ATMOS"
+     },
+     {
+      "itemType": "ITEM_OREALITY_AUDIO"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_OTHER",
+    "subItems": [
+     {
+      "itemType": "ITEM_GAME_MODE"
+     },
+     {
+      "itemType": "ITEM_COMPACTNESS_DETECT"
+     },
+     {
+      "itemType": "ITEM_WHITE_NOISE"
+     },
+     {
+      "itemType": "ITEM_KEY_SETTING"
+     },
+     {
+      "itemType": "ITEM_MORE",
+      "subItems": [
+       {
+        "itemType": "ITEM_SMART_PLAY_PAUSE"
+       },
+       {
+        "itemType": "ITEM_AUTO_ANSWER"
+       },
+       {
+        "itemType": "ITEM_TAKE_PHOTO"
+       },
+       {
+        "itemType": "ITEM_SEARCH_HEADSET"
+       },
+       {
+        "itemType": "ITEM_FIND_PHONE"
+       },
+       {
+        "itemType": "ITEM_PERSONALIZED_THEME"
+       },
+       {
+        "itemType": "GROUP_USE_TIME"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_LEFT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_CHANGE_DEVICE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ],
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_RIGHT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PRE_SONG",
+        "VALUE_NEXT_SONG",
+        "VALUE_VOLUME_INCREASE",
+        "VALUE_VOLUME_REDUCE",
+        "VALUE_CHANGE_DEVICE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_NOISE_REDUCTION",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ],
+       "optionNoiseValues": [
+        "ITEM_NOISE_REDUCTION",
+        "ITEM_NOISE_CLOSE",
+        "ITEM_NOISE_TRANSPARENT"
+       ]
+      }
+     }
+    ]
+   }
+  ],
+  "headsetDetectConfig": {
+   "items": [
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "tws_pair"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "touch"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "horn"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "microphone"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "noisereduction"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "in_out_of_ears"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "box_communication"
+    },
+    {
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9",
+     "type": "antenna"
+    }
+   ],
+   "minSupportVersion": "0.0.0.0",
+   "minUnSupportVersion": "9.9.9.9"
+  },
+  "statusDisplayConfig": {
+   "minSupportVersion": "0.0.0.0",
+   "minUnSupportVersion": "9.9.9.9",
+   "supportStatus": [
+    {
+     "feature": 1,
+     "minSupportVersion": "0.0.0.0",
+     "minUnSupportVersion": "9.9.9.9"
+    },
+    {
+     "feature": 2
+    },
+    {
+     "feature": 3
+    },
+    {
+     "feature": 4
+    },
+    {
+     "feature": 5
+    },
+    {
+     "feature": 6
+    },
+    {
+     "feature": 7
+    },
+    {
+     "feature": 8
+    },
+    {
+     "feature": 9
+    },
+    {
+     "feature": 10
+    }
+   ]
+  }
+ },
+ "DIZO Buds Z Power": {
+  "androidConfig": {
+   "delaySppConnect": "0",
+   "modelId": "",
+   "sdkVendor": "VENDOR_TL",
+   "sppUUIDType": "TYPE_SELF_PROTOCOL"
+  },
+  "headsetOtaConfig": {
+   "forceUpdateAfterOtaFail": 0,
+   "otaState": 1,
+   "supportBreakpointResume": 1
+  },
+  "productAttr": {
+   "deviceType": "TYPE_TWS",
+   "noiseControlProtocol": "PROTOCOL_FREE_STYLE",
+   "pullSwitchProtocol": "PROTOCOL_FREE_STYLE",
+   "singleHeadsetBasic": "BATTERY"
+  },
+  "viewItems": [
+   {
+    "itemType": "GROUP_DEVICE_TWS"
+   },
+   {
+    "itemType": "GROUP_SOUND_EFFECT",
+    "subItems": [
+     {
+      "itemType": "GROUP_SOUND_EFFECT_MODE",
+      "subItems": [
+       {
+        "itemType": "ITEM_LOW_SOUND_ENHANCE"
+       },
+       {
+        "itemType": "ITEM_DYNAMIC"
+       },
+       {
+        "itemType": "ITEM_BRIGHTNESS"
+       }
+      ]
+     },
+     {
+      "itemType": "ITEM_SOUND_ENHANCE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_MODE",
+    "subItems": [
+     {
+      "itemType": "ITEM_GAME_MODE"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_OTHER",
+    "subItems": [
+     {
+      "itemType": "ITEM_AUTO_ANSWER"
+     },
+     {
+      "itemType": "ITEM_KEY_SETTING"
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_LEFT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_CHANGE_DEVICE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_CHANGE_DEVICE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_CHANGE_DEVICE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_RIGHT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_DOUBLE_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_DOUBLE_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_CHANGE_DEVICE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_TRI_CLICK",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_TRI_CLICK",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_CHANGE_DEVICE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     },
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_PLAY_PAUSE",
+        "VALUE_NEXT_SONG",
+        "VALUE_PRE_SONG",
+        "VALUE_CHANGE_DEVICE",
+        "VALUE_AUDIO_ASSISTANT",
+        "VALUE_OFF"
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "itemType": "GROUP_KEY_LEFT_RIGHT",
+    "subItems": [
+     {
+      "itemType": "ITEM_ACTION_LONG_CLICK_1S",
+      "keyAction": {
+       "actionType": "ITEM_ACTION_LONG_CLICK_1S",
+       "optionValues": [
+        "VALUE_GAME_MODEL",
+        "VALUE_OFF"
+       ]
+      }
+     }
+    ]
+   }
+  ]
+ }
+}
